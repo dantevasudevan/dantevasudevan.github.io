@@ -1,6 +1,6 @@
 # Contact
 
-<p><img src="https://cdn.business2community.com/wp-content/uploads/2015/07/gmail-logo-2015-300x226.png.png" width="22" height="15"> dantevasudevan@gmail.com</p>
+<p><img src="https://1b110ff0-a-33f9f8d5-s-sites.googlegroups.com/a/wghsmultimedia.com/dante-vasudevan/home/journal/0.png?attachauth=ANoY7coG_nUvXmMIPr1lymL6lZixmL54y_H4O4Yk0RmfL1JafgfwOADtv75rho3saX2v1IU75lbep1xAopDqfZtCNJzAhkI1DAY8niadVJPNaHOQCvlgvD0IudakyRnyXrCtSOB2DGX4dRIFT1JEmj4EytbpaouoX5bYT94C0VPzcpjvQuXWDxvS4OxZsWXqRSKl9MaaK6l5wbs5PRlnFlQESswRoAjnso1RT41Z8weleZDf7AqAV78%3D&attredirects=0" width="22" height="15"> dantevasudevan@gmail.com</p>
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ngjM8ZdF7U7BFyy9CDkguRdo_VNcVBN4rMIeM67JXKD-ZQGQ" width="22" height="22"> Speedyflames#9709</p>
 <br>
 
