@@ -7,3 +7,5 @@ Here you can check out my Photoshop Artwork, as well as photography I have taken
 <br>
 
 # Photography
+
+<img src="https://1b110ff0-a-33f9f8d5-s-sites.googlegroups.com/a/wghsmultimedia.com/dante-vasudevan/home/journal/Back%20Lighting.JPG?attachauth=ANoY7cpGVN8DvRg_lgd9suPJhww9K6f548qrkAuCfdHoMzeje_r5tFEwZL5u3-QlNUXKWZGlB8vD7O2jcmEVt6i4077zJDzP9Sm-BnV2Aybzb1GNtlSjIIqRkHk8g0sKotrYc4UaCup_IZFmXYcGdkLeqJoGvSMmNfmErKIxR9h4KRJ-dy-8B2jBR9qi4e3j4_WGhogfYpo3-CSIK3452dbJYugSPuygvzeeuZoZt948u-3tSnjD_jTD-6S-uGLg082gkzNAUX56&attredirects=0">
