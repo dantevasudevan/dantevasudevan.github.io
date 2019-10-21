@@ -1,6 +1,6 @@
 # Contact
 
-<p>dantevasudevan@gmail.com</p>
+<p><img src="https://cdn.business2community.com/wp-content/uploads/2015/07/gmail-logo-2015-300x226.png.png" width="22" height="15"> dantevasudevan@gmail.com</p>
 <p>Speedyflames#9709</p>
 <br>
 
