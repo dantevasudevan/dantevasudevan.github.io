@@ -4,7 +4,7 @@ Welcome to my Website!
 
 <br>
 <p>Get to know me <a href="https://dantevasudevan.github.io/about">here</a>.</p>
-<p>Get my accounts and contact information <a href="https://dantevasudevan.github.io/contact">here</a>.</p>
+<p>Find my accounts and contact information <a href="https://dantevasudevan.github.io/contact">here</a>.</p>
 <p>Check out my artwork <a href="https://dantevasudevan.github.io/artwork">here</a></p>
 
 <br>
