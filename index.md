@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="file:///C:/Users/octav/Pictures/Background.ico">
+<link rel="shortcut icon" href="Background.ico">
 
 # Home
 
