@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon href="Background.ico">
+
 # Home
 
 Welcome to my Website!
