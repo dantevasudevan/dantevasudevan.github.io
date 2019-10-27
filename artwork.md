@@ -19,10 +19,5 @@ Here you can check out my Photoshop Artwork, as well as photography I have taken
 <br>
 <img src="https://i.ibb.co/qnqRmCt/Complex-Complex-Final-1.jpg" alt="Complex-Complex-Final-1" border="0" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p><a href="https://dantevasudevan.github.io/">Go back</a></p>
