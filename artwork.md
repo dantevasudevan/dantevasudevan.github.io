@@ -14,7 +14,7 @@ Here you can check out my Photoshop Artwork, as well as photography I have taken
 
 # Photography
 
-<img src="https://ibb.co/RNyQ3Sv" width="600" height="400">
+<a href="https://ibb.co/RNyQ3Sv"><img src="https://i.ibb.co/QkdYPcb/Back-Lighting-1.jpg" alt="Back-Lighting-1" border="0" /></a>
 <br>
 <br>
 <img src="https://ibb.co/vByJLh7" width="600" height="400">
@@ -26,4 +26,3 @@ Here you can check out my Photoshop Artwork, as well as photography I have taken
 <br>
 <br>
 <p><a href="https://dantevasudevan.github.io/">Go back</a></p>
-<a href="https://ibb.co/RNyQ3Sv"><img src="https://i.ibb.co/QkdYPcb/Back-Lighting-1.jpg" alt="Back-Lighting-1" border="0" /></a>
