@@ -4,7 +4,7 @@ Here you can check out my Photoshop Artwork, as well as photography I have taken
 
 # Artwork
 
-<img src="https://1b110ff0-a-33f9f8d5-s-sites.googlegroups.com/a/wghsmultimedia.com/dante-vasudevan/home/journal/Photoshop_Digital_Painting-min.jpg?attachauth=ANoY7cpG39XLD8B4bgUB4g0PkkWu6KYQw6XiWlq3bnZ27SgsR9zD887mNOKfubF8sn6T3aQFmY36EL5bUMf9--Jf9fDaQla_EY8yeChm28TIE1_9jJRXCoZCQ8YNLvZTP8KoczZ0lRjWCLxoncKDD5DoyFQ0ovJBeGW_dqPIPfguuZb8heGArW_7IPXSldsKW1PxqFi5MNBFUtIrCAZFi5rxq8NfKCkkFOCzgja6iG_ntvaOU3kRnHxSPywK-nd0pnB1alivsLM4CJW-Yp1ZcnwSwr8sFq19cA%3D%3D&attredirects=0" width="600" height="500">
+<img src="https://lh4.googleusercontent.com/u7hCMkwUg42LZ10Yg1lcibT0JwFFYIhzWSAgIwh3tV_rbndZrB20QnLhZoVWHdTtcYyrnQHos4k6sckSVninL24wklTayfxw_xw0f2KDHMp7hKSpdnnw=w472" width="600" height="500">
 <br>
 <br>
 <img src="https://1b110ff0-a-33f9f8d5-s-sites.googlegroups.com/a/wghsmultimedia.com/dante-vasudevan/home/journal/Dante_Vasudevan_P.6-01-min%20%281%29.jpg?attachauth=ANoY7cp6iRaKTCAoJyEvQqVa_myY4tHRPczwAg784I-Ate31V-_tHyPXVlt4KGcJgqc7gQ_Sgf1AAhwGL2DUjLH6fe7nbWepjIA87drBQdKKxJX81xNsg0LalMWtsZurU2Ms_hTwOsC_ax26Gd4dljaWduI7N9nw1GlHKXQPMBVqWkwEEXdwwKVm2LsknvS3_3CMGiqERCpuzjM_peqa2TBLYEobr09G6XJ3vRLxeg8lf4XHTE3vkyBKR2rZQ1sg3Nq6kLlTAgeTqie5-Vl03yiCJMr8pnPMEw%3D%3D&attredirects=0" width="600" height="500">
