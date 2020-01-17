@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+</head>
+
 Here are all the college portal links to check admission.
 <br>
 <br>
