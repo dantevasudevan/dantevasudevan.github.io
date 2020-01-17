@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="favicon.png" type="image/x-icon" />
+  <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="Favicon.jpg" type="image/x-icon" />
 </head>
 
 # Home
