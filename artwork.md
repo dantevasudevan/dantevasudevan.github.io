@@ -1,3 +1,7 @@
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+</head>
+
 Here you can check out my Photoshop Artwork, as well as photography I have taken
 <br>
 <br>
