@@ -1,4 +1,4 @@
-Here are all the college portal links
+Here are all the college portal links to check admission.
 <br>
 <br>
 
@@ -15,7 +15,12 @@ Here are all the college portal links
 <br>
 
 # Privates
-
+<p><img src="https://www.saintmarys.edu/files/2018/05/case-western-reserve-spartans.png" width="25" height="28"><a href="https://go.case.edu/apply/status"> Case Western</a></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Northeastern_University_seal.svg/469px-Northeastern_University_seal.svg.png" width="22" height="22"><a href="https://ugadmissions.northeastern.edu/applicantapp/PreDecision.asp"> Northeastern University</a></p>
+<p><img src="https://i.pinimg.com/736x/b6/b2/98/b6b2989e5c5d649dba3a008653596e43--s-logo-stanford-university.jpg" width="15" height="22"><a href="https://apply.stanford.edu/apply/status"> Stanford</a></p>
+<p><img src="http://www.healthygutbugs.com/wp-content/uploads/2014/02/ucb-logo.jpg" width="22" height="22"><a href="https://apply.berkeley.edu/apply/status"> UC Berkeley</a></p>
+<p><img src="http://www.healthygutbugs.com/wp-content/uploads/2014/02/ucb-logo.jpg" width="22" height="22"><a href="https://apply.berkeley.edu/apply/status"> UC Berkeley</a></p>
+<p><img src="http://www.healthygutbugs.com/wp-content/uploads/2014/02/ucb-logo.jpg" width="22" height="22"><a href="https://apply.berkeley.edu/apply/status"> UC Berkeley</a></p>
 
 <br>
 <br>
