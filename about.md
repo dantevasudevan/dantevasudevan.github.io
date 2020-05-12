@@ -5,8 +5,23 @@
 # About Me:
 
 My name is Dante Vasudevan.
-I am a student who loves learning, and has interests in physics, programming, and engineering.
+I am a student studying electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, chess, programming, and physics
 <br>
+<br>
+
+# Skills:
+
+Python and Java Programming <br>
+Soldering and Circuitry <br>
+Basic Machining <br>
+Proficiency with Adobe Software <br>
+Piano <br>
+<br>
+
+# Experience:
+
+Willow Glen High School Varsity Soccer <br>
+Secretary of Willow Glen High School Robotics <br>
 <br>
 <br>
 <br>
