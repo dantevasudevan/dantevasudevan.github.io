@@ -22,9 +22,4 @@ Piano <br>
 
 Willow Glen High School Varsity Soccer <br>
 Secretary of Willow Glen High School Robotics <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p><a href="https://dantevasudevan.github.io/">Go back</a></p>
+
