@@ -2,14 +2,29 @@
   <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="Favicon.png" type="image/x-icon" />
 </head>
 
-# Home
-                                                                  
-Welcome to my Website!
+# About Me:
 
+My name is Dante Vasudevan.
+I am a student studying electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, chess, programming, and physics
 <br>
-<p>Get to know me <a href="https://dantevasudevan.github.io/about">here</a>.</p>
-<p>Find my accounts and contact information <a href="https://dantevasudevan.github.io/contact">here</a>.</p>
-<p>Check out my artwork <a href="https://dantevasudevan.github.io/artwork">here</a></p>
+<br>
 
+# Skills:
+
+Python and Java Programming <br>
+Soldering and Circuitry <br>
+Basic Machining <br>
+Proficiency with Adobe Software <br>
+Piano <br>
 <br>
-<img src="https://4.bp.blogspot.com/-hVHMtkaxnr8/UckaaFt5AsI/AAAAAAAAAw4/3e8WNRXnXn8/s1600/87164e2d22008c2be.gif">
+
+# Experience:
+
+Willow Glen High School Varsity Soccer <br>
+Secretary of Willow Glen High School Robotics <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><a href="https://dantevasudevan.github.io/">Go back</a></p>
