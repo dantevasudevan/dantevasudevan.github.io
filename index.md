@@ -14,7 +14,7 @@ I am a student studying electrical engineering at University of Illinois at Urba
 Python and Java Programming <br>
 Soldering and Circuitry <br>
 Basic Machining <br>
-Proficiency with Adobe Software <br>
+Proficiency with Adobe Suite <br>
 Piano <br>
 <br>
 
