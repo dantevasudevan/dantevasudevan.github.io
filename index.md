@@ -16,6 +16,7 @@ Soldering and Circuitry <br>
 Basic Machining <br>
 Proficiency with Adobe Suite <br>
 Piano <br>
+Bilingual <br>
 <br>
 
 # Experience:
