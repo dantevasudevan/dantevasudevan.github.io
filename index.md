@@ -21,6 +21,5 @@ Bilingual <br>
 
 # Experience:
 
-Willow Glen High School Varsity Soccer <br>
-Secretary of Willow Glen High School Robotics <br>
+High School Robotics <br>
 
