@@ -17,6 +17,7 @@ Basic Machining <br>
 Proficiency with Adobe Suite <br>
 Piano <br>
 Bilingual <br>
+Making Lists <br>
 <br>
 
 # Experience:
