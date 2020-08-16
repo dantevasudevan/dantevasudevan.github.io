@@ -2,14 +2,14 @@
   <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="Favicon.png" type="image/x-icon" />
 </head>
 
-# About Me:
+# About Me
 
 My name is Dante Vasudevan.
 I am a student studying electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, chess, programming, and physics
 <br>
 <br>
 
-# Skills:
+# Skills
 
 Python and Java Programming <br>
 Soldering and Circuitry <br>
@@ -20,7 +20,7 @@ Bilingual <br>
 Making Lists <br>
 <br>
 
-# Experience:
+# Experience
 
 High School Robotics <br>
 <br>
