@@ -9,11 +9,15 @@
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://apps.uillinois.edu/selfservice/" target="_blank"> Self Service</a></p>
 
 <br>
-<br>
 
 # Physics
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys212/fa2020/index.html" target="_blank"> Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys212/fa2020/course-grading.html" target="_blank"> Course Grading</a></p>
+
+<br>
+
+# English
+<p><img src="https://i.ibb.co/cJBwwr9/english-2.jpg" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=49974" target="_blank"> Main Website</a></p>
 
 <br>
 <br>
