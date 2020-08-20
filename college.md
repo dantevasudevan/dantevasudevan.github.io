@@ -10,6 +10,11 @@
 
 <br>
 
+# Electrical Engineering
+<p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece110/fa2020/" target="_blank"> Main Website</a></p>
+
+<br>
+
 # Physics
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys212/fa2020/index.html" target="_blank"> Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys212/fa2020/course-grading.html" target="_blank"> Course Grading</a></p>
