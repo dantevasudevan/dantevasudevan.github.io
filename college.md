@@ -22,7 +22,7 @@
 <br>
 
 # Math
-<p><img src="https://clix.tiss.edu/wp-content/uploads/2015/12/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/course/view.php?id=51327" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/course/view.php?id=51327" target="_blank"> Main Website</a></p>
 
 <br>
 
