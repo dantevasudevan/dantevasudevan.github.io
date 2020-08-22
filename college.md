@@ -21,6 +21,11 @@
 
 <br>
 
+# Math
+<p><img src="https://clix.tiss.edu/wp-content/uploads/2015/12/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/course/view.php?id=51327" target="_blank"> Main Website</a></p>
+
+<br>
+
 # English
 <p><img src="https://i.ibb.co/cJBwwr9/english-2.jpg" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=49974" target="_blank"> Main Website</a></p>
 
