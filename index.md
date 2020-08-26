@@ -15,6 +15,7 @@ Python and Java Programming <br>
 Soldering and Circuitry <br>
 Basic Machining <br>
 Proficiency with Adobe Suite <br>
+Procrastinating <br>
 Piano <br>
 Bilingual <br>
 Making Lists <br>
