@@ -13,6 +13,7 @@
 # Electrical Engineering
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece110/fa2020/" target="_blank"> Main Website</a></p>
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://compass2g.illinois.edu/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1" target="_blank"> Campus 2g</a></p>
+<p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://www.catme.org/student/" target="_blank"> Catme (Labs)</a></p>
 
 <br>
 
