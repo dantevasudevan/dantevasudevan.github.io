@@ -12,6 +12,7 @@ I am a student studying electrical engineering at University of Illinois at Urba
 # Skills
 
 Python and Java Programming <br>
+MATLAB and Simulink Basics <br>
 Soldering and Circuitry <br>
 Basic Machining <br>
 Proficiency with Adobe Suite <br>
