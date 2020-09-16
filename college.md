@@ -20,7 +20,7 @@
 # Physics
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys212/fa2020/index.html" target="_blank"> Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://smart.physics.illinois.edu/Course?enrollmentID=88761" target="_blank"> Homework</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://www.iclicker.com/" target="_blank"> iClicker</a></p>
+<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://app.reef-education.com/#/courses" target="_blank"> iClicker</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://www.gradescope.com/account" target="_blank"> GradeScope</a></p>
 
 <br>
