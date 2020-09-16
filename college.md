@@ -22,6 +22,7 @@
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://smart.physics.illinois.edu/Course?enrollmentID=88761" target="_blank"> Homework</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://app.reef-education.com/#/courses" target="_blank"> iClicker</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://www.gradescope.com/account" target="_blank"> GradeScope</a></p>
+<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://my.physics.illinois.edu/gradebook/" target="_blank"> Gradebook</a></p>
 
 <br>
 
