@@ -4,6 +4,7 @@
 
 # Main Websites
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://illinois.edu/" target="_blank"> Main Website</a></p>
+<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://grainger.illinois.edu/" target="_blank"> Engineering Website</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://myillini.illinois.edu" target="_blank"> Student Portal</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://apps.uillinois.edu/selfservice/" target="_blank"> Self Service</a></p>
@@ -29,6 +30,7 @@
 
 # Math
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/course/view.php?id=51327" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://www.webassign.net/v4cgi/student.pl?action=&course=&UserPass=db4b5e739cf183cd8572415d55cbe49a" target="_blank"> Main Website</a></p>
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/G33EFE4D7/feed" target="_blank"> Campuswire</a></p>
 
 <br>
