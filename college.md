@@ -30,7 +30,7 @@
 
 # Math
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/course/view.php?id=51327" target="_blank"> Main Website</a></p>
-<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://www.webassign.net/v4cgi/student.pl?action=&course=&UserPass=db4b5e739cf183cd8572415d55cbe49a" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://www.webassign.net/v4cgi/student.pl?action=&course=&UserPass=db4b5e739cf183cd8572415d55cbe49a" target="_blank"> Homework</a></p>
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/G33EFE4D7/feed" target="_blank"> Campuswire</a></p>
 
 <br>
