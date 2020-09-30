@@ -32,10 +32,10 @@ Varsity Soccer Athlete <br>
 High School Robotics <br>
 Self-Guided Projects <br>
 High Level Academic Courses such as: <br>
-&emsp; - Differential Equations <br>
-&emsp; - Multivariable Calculus <br>
-&emsp; - Electricity and Magnetism Physics <br>
-&emsp; - Chemisty <br>
+&emsp;&emsp; - Differential Equations <br>
+&emsp;&emsp; - Multivariable Calculus <br>
+&emsp;&emsp; - Electricity and Magnetism Physics <br>
+&emsp;&emsp; - Chemisty <br>
 <br>
 <br>
 <br>
