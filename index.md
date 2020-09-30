@@ -17,6 +17,7 @@ SPICE Software Basics <br>
 Soldering and Circuitry <br>
 Basic Machining <br>
 Proficiency with Adobe Suite <br>
+Bilingual <br>
 Making Lists <br>
 <br>
 
