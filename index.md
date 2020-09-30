@@ -23,6 +23,7 @@ Making Lists <br>
 # Experience
 
 High School Robotics <br>
+Self-Guided Projects <br>
 <br>
 <br>
 <br>
