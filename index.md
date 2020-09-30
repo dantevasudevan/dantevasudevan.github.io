@@ -13,12 +13,10 @@ I am a student studying electrical engineering at University of Illinois at Urba
 
 Python and Java Programming <br>
 MATLAB and Simulink Basics <br>
+SPICE Software Basics <by>
 Soldering and Circuitry <br>
 Basic Machining <br>
 Proficiency with Adobe Suite <br>
-Procrastinating <br>
-Piano <br>
-Bilingual <br>
 Making Lists <br>
 <br>
 
