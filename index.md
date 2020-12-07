@@ -6,36 +6,7 @@
 
 My name is Dante Vasudevan.
 I am a student studying electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, chess, programming, and physics
-<br>
-<br>
 
-# Skills
-
-### Technical
-
-Python and Java Programming <br>
-MATLAB and Simulink Basics <br>
-SPICE Software Basics <br>
-Soldering and Circuitry <br>
-Basic Machining <br>
-
-### Personal
-
-Proficiency with Adobe Suite <br>
-Bilingual <br>
-Piano <br>
-Varsity Soccer Athlete <br>
-<br>
-
-# Experience
-
-High School Robotics <br>
-Self-Guided Projects <br>
-High Level Academic Courses such as: <br>
-&emsp;&ensp; - Differential Equations <br>
-&emsp;&ensp; - Multivariable Calculus <br>
-&emsp;&ensp; - Electricity and Magnetism Physics <br>
-&emsp;&ensp; - Chemisty <br>
 <br>
 <br>
 <br>
