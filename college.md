@@ -10,7 +10,7 @@
 
 <br>
 
-# Computer Engineering
+# Engineering
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece120/Home" target="_blank"> Main Website</a></p>
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
 
