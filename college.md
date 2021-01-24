@@ -24,7 +24,9 @@
 <br>
 
 # Math
-<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/G33EFE4D7/feed" target="_blank"> Campuswire</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/auth/saml2sso/gateway.php" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/GA94702C8/feed/1" target="_blank"> Campuswire</a></p>
+<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
 
 <br>
 
