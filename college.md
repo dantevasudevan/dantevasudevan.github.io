@@ -33,7 +33,7 @@
 <br>
 
 # Global Studies
-<p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=49974" target="_blank"> Main Website</a></p>
+<p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=57583" target="_blank"> Main Website</a></p>
 
 <br>
 <br>
