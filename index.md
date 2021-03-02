@@ -12,7 +12,7 @@ I am a student studying electrical engineering at University of Illinois at Urba
 <br>
 <br>
 <br>
-<p style="text-align:justify">
+<p style="justifiy-content: space-evenly">
   <a href="https://github.com/Speedyflames" target="_blank"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="50" height="50"></a>
   <a href="www.linkedin.com/in/dantevasudevan" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" width="50" height="50"></a>
   <a href="https://www.youtube.com/channel/UCxHx9sbwcqApbpsxXJZp23g" target="_blank"><img src="https://seeklogo.com/images/Y/youtube-icon-logo-521820CDD7-seeklogo.com.png" width="68" height="50"></a>
