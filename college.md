@@ -13,7 +13,8 @@
 <br>
 
 # Physics
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys214/sp2021/index.html" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys213/sp2021/index.html" target="_blank"> Thermal Physics Main Website</a></p>
+<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys214/sp2021/index.html" target="_blank"> Quantum Physics Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://smart.physics.illinois.edu/Course?enrollmentID=97116" target="_blank"> Homework</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://app.reef-education.com/#/courses" target="_blank"> iClicker</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> GradeScope</a></p>
