@@ -7,13 +7,13 @@
 
 <br>
 
-# Engineering
+# Signal Processing
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece120/Home" target="_blank"> Main Website</a></p>
 <p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
 
 <br>
 
-# Physics
+# Computer Systems
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys213/sp2021/index.html" target="_blank"> Thermal Physics Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys214/sp2021/index.html" target="_blank"> Quantum Physics Main Website</a></p>
 <p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://smart.physics.illinois.edu/Course?enrollmentID=98433" target="_blank"> Homework</a></p>
@@ -23,15 +23,15 @@
 
 <br>
 
-# Math
+# Probability
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/auth/saml2sso/gateway.php" target="_blank"> Main Website</a></p>
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/G3CF55562/feed" target="_blank"> Campuswire</a></p>
 <p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
 
 <br>
 
-# Global Studies
-<p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=57583" target="_blank"> Main Website</a></p>
+# Global History
+<p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_59461_1&content_id=_5365215_1" target="_blank"> Main Website</a></p>
 
 <br>
 <br>
