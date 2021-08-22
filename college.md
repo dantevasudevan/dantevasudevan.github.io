@@ -20,10 +20,10 @@
 <br>
 
 # Probability
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank"> Main Discussion Website (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece314/fa2021/" target="_blank"> Main Lab Website (314)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://campuswire.com/c/G5E3E23EA/feed" target="_blank"> Discussion (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://campuswire.com/c/G98F9C1D3/feed" target="_blank"> Lab (314)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="25"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank"> Main Discussion Website (313)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="25"><a href="https://courses.engr.illinois.edu/ece314/fa2021/" target="_blank"> Main Lab Website (314)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="25"><a href="https://campuswire.com/c/G5E3E23EA/feed" target="_blank"> Discussion (313)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="25"><a href="https://campuswire.com/c/G98F9C1D3/feed" target="_blank"> Lab (314)</a></p>
 
 <br>
 
