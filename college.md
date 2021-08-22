@@ -8,25 +8,22 @@
 <br>
 
 # Signal Processing
-<p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece120/Home" target="_blank"> Main Website</a></p>
-<p><img src="https://egr.vcu.edu/media/school-of-engineering/icons/ECE-icon-01.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece210/fa2021/" target="_blank"> Main Website</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://campuswire.com/c/GD8A46E03/feed" target="_blank"> Campuswire</a></p>
 
 <br>
 
 # Computer Systems
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys213/sp2021/index.html" target="_blank"> Thermal Physics Main Website</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://courses.physics.illinois.edu/phys214/sp2021/index.html" target="_blank"> Quantum Physics Main Website</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://smart.physics.illinois.edu/Course?enrollmentID=98433" target="_blank"> Homework</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://app.reef-education.com/#/courses" target="_blank"> iClicker</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> GradeScope</a></p>
-<p><img src="https://i.ibb.co/XV6RD84/physics-2.jpg" width="22" height="22"><a href="https://my.physics.illinois.edu/gradebook/" target="_blank"> Gradebook</a></p>
+<p>nothing at the moment</p>
 
 <br>
 
 # Probability
-<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://learn.illinois.edu/auth/saml2sso/gateway.php" target="_blank"> Main Website</a></p>
-<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://campuswire.com/c/G3CF55562/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://i.ibb.co/0Cx7QR1/curriculum-icons-mathematics-1.png" width="22" height="22"><a href="https://prairielearn.engr.illinois.edu/pl/login" target="_blank"> Homework</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank"> Main Discussion Website (313)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece314/fa2021/" target="_blank"> Main Lab Website (314)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://campuswire.com/c/G5E3E23EA/feed" target="_blank"> Discussion (313)</a></p>
+<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="22" height="22"><a href="https://campuswire.com/c/G98F9C1D3/feed" target="_blank"> Lab (314)</a></p>
 
 <br>
 
