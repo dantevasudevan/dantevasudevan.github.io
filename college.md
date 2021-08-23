@@ -5,7 +5,7 @@
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://student.myillini.illinois.edu/" target="_blank"> Student Portal</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://my.ece.illinois.edu/" target="_blank"> Student Information</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://cbtf.engr.illinois.edu/sched/user/979886" target="_blank"> Exams</a></p>
-<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/" target="_blank"> Grades</a></p>
+<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/" target="_blank"> Grades (Canvas)</a></p>
 
 <br>
 
