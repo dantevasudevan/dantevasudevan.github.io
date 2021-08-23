@@ -2,8 +2,10 @@
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://illinois.edu/" target="_blank"> Main Website</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://grainger.illinois.edu/" target="_blank"> Engineering Website</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://apps.uillinois.edu/selfservice/" target="_blank"> Self Service</a></p>
-<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://my.ece.illinois.edu/" target="_blank"> Student Portal</a></p>
+<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://student.myillini.illinois.edu/" target="_blank"> Student Portal</a></p>
+<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://my.ece.illinois.edu/" target="_blank"> Student Information</a></p>
 <p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://cbtf.engr.illinois.edu/sched/user/979886" target="_blank"> Exams</a></p>
+<p><img src="https://cdn.vox-cdn.com/thumbor/FGgViEqt2ML--Uxw1Pu6Gw4rV8o=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/" target="_blank"> Grades</a></p>
 
 <br>
 
@@ -16,6 +18,8 @@
 
 # Computer Systems
 <p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece220/" target="_blank"> Main Website</a></p>
+<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://campuswire.com/c/G7EDB5F69/feed" target="_blank"> Campuswire</a></p>
+<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
 
 <br>
 
