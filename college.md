@@ -15,7 +15,7 @@
 <br>
 
 # Computer Systems
-<p>nothing at the moment</p>
+<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece220/" target="_blank"> Main Website</a></p>
 
 <br>
 
