@@ -10,10 +10,10 @@
 <br>
 
 # Signal Processing
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece210/fa2021/" target="_blank"> Main Website</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ECE310/sp2022/" target="_blank"> Main Website</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece311/sp2022/" target="_blank"> Main Lab Website</a></p>
 <p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://campuswire.com/c/GD8A46E03/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://student.iclicker.com/#/courses" target="_blank"> iClicker</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://campuswire.com/c/G8D8C4013/feed/1" target="_blank"> Campuswire</a></p>
 
 <br>
 
