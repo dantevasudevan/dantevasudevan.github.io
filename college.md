@@ -24,16 +24,12 @@
 
 <br>
 
-# Probability
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank"> Main Discussion Website (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://courses.engr.illinois.edu/ece314/fa2021/" target="_blank"> Main Lab Website (314)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://campuswire.com/c/G5E3E23EA/feed" target="_blank"> Campuswire (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://www.prairielearn.org/pl/course_instance/128725/assessments" target="_blank"> PrarieLearn (Quizzes)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://campuswire.com/c/G98F9C1D3/feed" target="_blank"> Campuswire (314)</a></p>
+# Fields and Waves
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank">Main Discussion Website (313)</a></p>
 
 <br>
 
-# Global History
+# Political Science
 <p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_59461_1&content_id=_5365215_1" target="_blank"> Main Website</a></p>
 
 <br>
