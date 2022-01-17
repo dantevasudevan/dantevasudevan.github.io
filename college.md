@@ -17,10 +17,10 @@
 
 <br>
 
-# Computer Systems
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece220/" target="_blank"> Main Website</a></p>
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://campuswire.com/c/G7EDB5F69/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+# Electronic Circuits
+<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
+<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
+<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
 
 <br>
 
