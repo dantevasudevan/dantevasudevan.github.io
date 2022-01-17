@@ -18,9 +18,9 @@
 <br>
 
 # Electronic Circuits
-<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
-<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
-<p><img src="https://jooinn.com/images/circuit-or-motherboard-4.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficon-icons.com%2Ficons2%2F1261%2FPNG%2F512%2F1496676743-rounded-high-ultra-colour10-circuit-board_84619.png&f=1&nofb=1" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficon-icons.com%2Ficons2%2F1261%2FPNG%2F512%2F1496676743-rounded-high-ultra-colour10-circuit-board_84619.png&f=1&nofb=1" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficon-icons.com%2Ficons2%2F1261%2FPNG%2F512%2F1496676743-rounded-high-ultra-colour10-circuit-board_84619.png&f=1&nofb=1" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
 
 <br>
 
