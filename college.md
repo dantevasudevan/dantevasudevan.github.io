@@ -25,7 +25,8 @@
 <br>
 
 # Fields and Waves
-<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://courses.engr.illinois.edu/ece329/" target="_blank">Main Website (313)</a></p>
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://courses.engr.illinois.edu/ece329/" target="_blank">Main Website</a></p>
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://campuswire.com/c/G58C3D48B/feed" target="_blank">Campuswire</a></p>
 
 <br>
 
