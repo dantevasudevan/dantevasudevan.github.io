@@ -1,7 +1,7 @@
 # About Me
 
 My name is Dante Vasudevan.
-I am a student studying electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, chess, programming, and physics
+I am a student aspiring electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, and chess, but most of all I love learning new things
 
 <br>
 <br>
