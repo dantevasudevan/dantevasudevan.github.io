@@ -21,6 +21,8 @@
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_62861_1&content_id=_5723685_1" target="_blank"> Midterms (Grades)</a></p>
+
 
 <br>
 
@@ -32,7 +34,7 @@
 <br>
 
 # Political Science
-<p><img src="https://www.uakron.edu/polisci/images/political-science-icon.png" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=67012" target="_blank"> Main Website</a></p>
+<p><img src="https://www.uakron.edu/polisci/images/political-science-icon.png" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=67012"> Main Website</a></p>
 
 <br>
 <br>
