@@ -34,8 +34,9 @@
 <br>
 
 # Political Science
-<p><img src="https://www.uakron.edu/polisci/images/political-science-icon.png" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=67012"> Main Website</a></p>
 
+
+<br>
 <br>
 <br>
 <br>
