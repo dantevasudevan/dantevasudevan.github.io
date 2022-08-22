@@ -17,8 +17,8 @@
 
 <br>
 
-# Electronic Circuits
-<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
+# Photonic Devices
+<p><img src="https://www.eejournal.com/wp-content/uploads/2017/10/20171023-BM--1200x1200.jpg" width="22" height="22"><a href="https://piazza.com/class/l6thh2fgddf3ku" target="_blank"> Piazza (Main Website)</a></p>
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
 <p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_62861_1&content_id=_5723685_1" target="_blank"> Midterms (Grades)</a></p>
@@ -26,8 +26,8 @@
 
 <br>
 
-# Fields and Waves
-<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://courses.engr.illinois.edu/ece329/" target="_blank">Main Website</a></p>
+# Digital Systems
+<p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://wiki.illinois.edu/wiki/pages/viewpage.action?spaceKey=ECE385FA22&title=Home" target="_blank"> Main Website</a></p>
 <p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://www.ilie.ece.illinois.edu/ece-398-ri" target="_blank">Main Lab Website</a></p>
 <p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://campuswire.com/c/G58C3D48B/feed" target="_blank">Campuswire</a></p>
 
