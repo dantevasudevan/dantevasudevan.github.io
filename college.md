@@ -10,31 +10,31 @@
 <br>
 
 # Signal Processing
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece210/fa2021/" target="_blank"> Main Website</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ECE310/sp2022/" target="_blank"> Main Website</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece311/sp2022/" target="_blank"> Main Lab Website</a></p>
 <p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://campuswire.com/c/GD8A46E03/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://student.iclicker.com/#/courses" target="_blank"> iClicker</a></p>
+<p><img src="https://static.vecteezy.com/system/resources/previews/000/450/681/original/satellite-dish-vector-icon.jpg" width="22" height="22"><a href="https://campuswire.com/c/G8D8C4013/feed/1" target="_blank"> Campuswire</a></p>
 
 <br>
 
-# Computer Systems
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ece220/" target="_blank"> Main Website</a></p>
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://campuswire.com/c/G7EDB5F69/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://images.vexels.com/media/users/3/157318/isolated/lists/2782b0b66efa5815b12c9c637322aff3-desktop-computer-icon-computer.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+# Electronic Circuits
+<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece342/sp2022/" target="_blank"> Main Website</a></p>
+<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2022/index.html" target="_blank"> Main Lab Website</a></p>
+<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> Homework (Gradescope)</a></p>
+<p><img src="https://cdn4.iconfinder.com/data/icons/web-design-and-development-3-7/128/131-512.png" width="22" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_62861_1&content_id=_5723685_1" target="_blank"> Midterms (Grades)</a></p>
+
 
 <br>
 
-# Probability
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://courses.grainger.illinois.edu/ece313/fa2021/" target="_blank"> Main Discussion Website (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://courses.engr.illinois.edu/ece314/fa2021/" target="_blank"> Main Lab Website (314)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://campuswire.com/c/G5E3E23EA/feed" target="_blank"> Campuswire (313)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://www.prairielearn.org/pl/course_instance/128725/assessments" target="_blank"> PrarieLearn (Quizzes)</a></p>
-<p><img src="https://www.edplace.com/userfiles/image/Spinner8nums.png" width="25" height="22"><a href="https://campuswire.com/c/G98F9C1D3/feed" target="_blank"> Campuswire (314)</a></p>
+# Fields and Waves
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://courses.engr.illinois.edu/ece329/" target="_blank">Main Website</a></p>
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://www.ilie.ece.illinois.edu/ece-398-ri" target="_blank">Main Lab Website</a></p>
+<p><img src="https://cdn3.iconfinder.com/data/icons/sound-waves-2/64/254_sound-wave-music-soundwave-vibration-audio-256.png" width="30" height="30"><a href="https://campuswire.com/c/G58C3D48B/feed" target="_blank">Campuswire</a></p>
 
 <br>
 
-# Global History
-<p><img src="http://dreamicus.com/data/earth/earth-07.jpg" width="23" height="22"><a href="https://compass2g.illinois.edu/webapps/blackboard/content/listContent.jsp?course_id=_59461_1&content_id=_5365215_1" target="_blank"> Main Website</a></p>
+# Political Science
+<p><img src="https://www.uakron.edu/polisci/images/political-science-icon.png" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=67012%22%3E" target="_blank"> Main Website</a></p>
 
 
 hi
@@ -43,4 +43,4 @@ hi
 <br>
 <br>
 <br>
-<br>
+
