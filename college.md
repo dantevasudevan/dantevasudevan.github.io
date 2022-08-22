@@ -24,11 +24,11 @@
 
 <br>
 
-# Political Science
-<p><img src="https://www.uakron.edu/polisci/images/political-science-icon.png" width="23" height="22"><a href="https://learn.illinois.edu/course/view.php?id=67012%22%3E" target="_blank"> Main Website</a></p>
+# Sports Issues
+N/A
 
 
-testing
+
 <br>
 <br>
 <br>
