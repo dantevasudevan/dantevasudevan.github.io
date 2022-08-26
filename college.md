@@ -22,7 +22,7 @@
 
 # Digital Systems
 <p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://wiki.illinois.edu/wiki/pages/viewpage.action?spaceKey=ECE385FA22&title=Home" target="_blank"> Main Website</a></p>
-<p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://campuswire.com/c/G68400CFF/feed" target="_blank"> Main Website</a></p>
+<p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://campuswire.com/c/G68400CFF/feed" target="_blank"> Campuswire</a></p>
 
 <br>
 
