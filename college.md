@@ -11,6 +11,7 @@
 
 # Semiconductor Electronics
 <p><img src="https://thenfapost.com/wp-content/uploads/2020/09/Semiconductor-Equipment.jpeg" width="22" height="22"><a href="https://piazza.com/class/l6thh2fgddf3ku" target="_blank"> Piazza (Main Website)</a></p>
+<p><img src="https://thenfapost.com/wp-content/uploads/2020/09/Semiconductor-Equipment.jpeg" width="22" height="22"><a href="https://mediaspace.illinois.edu/createdby/eyJpdiI6InZmNWdSUGRaZUF3UU9IeldhVmZwRGc9PSIsInZhbHVlIjoia0laVVFqalVaSWZ2cWZnMG9HNldmUT09IiwibWFjIjoiMTYyYTM0N2VkMWE4ZGM4ZDU5NjQ5ZjlhZWJmNDVjOGVkYzc0ZDI4NTI5YzQwYTAwYjliMDcyZTA3Y2Y5OGMzMSJ9" target="_blank"> Recorded Lectures</a></p>
 
 <br>
 
