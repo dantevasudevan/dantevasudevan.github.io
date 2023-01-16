@@ -15,7 +15,7 @@ N/A
 <br>
 
 # Theory and Fabrication of Integrated Circuits
-<p><img src="https://www.ptb.de/cms/fileadmin/internet/fachabteilungen/abteilung_2/2.5_halbleiterphysik_und_magnetismus/2.53/MBE-2gross.JPG" width="22" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
+<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="24" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
 
 <br>
 
@@ -25,8 +25,8 @@ n/A
 <br>
 
 # Numerical Methods
-<p><img src="https://www.crushpixel.com/big-static16/preview4/mathematics-background-different-numbers-pattern-2476280.jpg" width="22" height="22"><a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="_blank"> Main Website</a></p>
-<p><img src="https://www.crushpixel.com/big-static16/preview4/mathematics-background-different-numbers-pattern-2476280.jpg" width="22" height="22"><a href="https://campuswire.com/c/GAB7F225D/feed" target="_blank"> Campuswire</a></p>
+<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="_blank"> Main Website</a></p>
+<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://campuswire.com/c/GAB7F225D/feed" target="_blank"> Campuswire</a></p>
 
 <br>
 
