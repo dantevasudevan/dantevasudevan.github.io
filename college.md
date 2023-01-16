@@ -30,11 +30,10 @@ n/A
 <br>
 
 # Introduction to Astrophysics
-N/A
+N/A yttrertrd
 
 
 
-<br>
 <br>
 <br>
 <br>
