@@ -9,24 +9,27 @@
 
 <br>
 
-# Semiconductor Electronics
-<p><img src="https://thenfapost.com/wp-content/uploads/2020/09/Semiconductor-Equipment.jpeg" width="22" height="22"><a href="https://piazza.com/class/l6thh2fgddf3ku" target="_blank"> Piazza (Main Website)</a></p>
-<p><img src="https://thenfapost.com/wp-content/uploads/2020/09/Semiconductor-Equipment.jpeg" width="22" height="22"><a href="https://mediaspace.illinois.edu/createdby/eyJpdiI6InZmNWdSUGRaZUF3UU9IeldhVmZwRGc9PSIsInZhbHVlIjoia0laVVFqalVaSWZ2cWZnMG9HNldmUT09IiwibWFjIjoiMTYyYTM0N2VkMWE4ZGM4ZDU5NjQ5ZjlhZWJmNDVjOGVkYzc0ZDI4NTI5YzQwYTAwYjliMDcyZTA3Y2Y5OGMzMSJ9" target="_blank"> Recorded Lectures</a></p>
+# Fields and Waves
+N/A
 
 <br>
 
-# Photonic Devices
-<p><img src="https://www.eejournal.com/wp-content/uploads/2017/10/20171023-BM--1200x1200.jpg" width="22" height="22"><a href="https://wiki.illinois.edu/wiki/display/ECE304FA22/ECE304+Introduction+to+Photonics+Fall+2022+Home" target="_blank"> Main Website</a></p>
+# Theory and Fabrication of Integrated Circuits
+<p><img src="https://www.ptb.de/cms/fileadmin/internet/fachabteilungen/abteilung_2/2.5_halbleiterphysik_und_magnetismus/2.53/MBE-2gross.JPG" width="22" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
 
 <br>
 
-# Digital Systems
-<p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://wiki.illinois.edu/wiki/pages/viewpage.action?spaceKey=ECE385FA22&title=Home" target="_blank"> Main Website</a></p>
-<p><img src="https://static.electronicsweekly.com/wp-content/uploads/2018/05/10084400/Figure-1-ACH_SPEEDCORE.jpg" width="30" height="30"><a href="https://campuswire.com/c/G68400CFF/feed" target="_blank"> Campuswire</a></p>
+# Electronics Laboratory
+n/A
 
 <br>
 
-# Sports Issues
+# Numerical Methods
+N/A
+
+<br>
+
+# Introduction to Astrophysics
 N/A
 
 
