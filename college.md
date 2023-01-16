@@ -25,7 +25,7 @@ n/A
 <br>
 
 # Numerical Methods
-N/A
+<p><img src="https://www.crushpixel.com/big-static16/preview4/mathematics-background-different-numbers-pattern-2476280.jpg" width="22" height="22"><a href="https://campuswire.com/c/GAB7F225D/feed" target="_blank"> Campuswire</a></p>
 
 <br>
 
