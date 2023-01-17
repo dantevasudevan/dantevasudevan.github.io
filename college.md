@@ -10,12 +10,12 @@
 <br>
 
 # Fields and Waves
-<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="24" height="22"><a href="https://courses.engr.illinois.edu/ece350/" target="_blank"> Main Website</a></p>
+<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece350/" target="_blank"> Main Website</a></p>
 
 <br>
 
 # Theory and Fabrication of Integrated Circuits
-<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="24" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
+<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
 
 <br>
 
