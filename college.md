@@ -11,6 +11,8 @@
 
 # Fields and Waves
 <p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece350/" target="_blank"> Main Website</a></p>
+<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://campuswire.com/c/G2291B881/feed" target="_blank"> Campuswire</a></p>
+<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> GradeScope</a></p>
 
 <br>
 
