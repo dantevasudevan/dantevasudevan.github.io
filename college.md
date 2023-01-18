@@ -22,7 +22,7 @@
 <br>
 
 # Electronics Laboratory
-n/A
+See Canvas (under Main Websites)
 
 <br>
 
@@ -35,7 +35,7 @@ n/A
 <br>
 
 # Introduction to Astrophysics
-N/A
+See Canvas (under Main Websites)
 
 
 
