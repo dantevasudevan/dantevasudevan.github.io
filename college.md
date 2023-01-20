@@ -18,6 +18,7 @@
 
 # Theory and Fabrication of Integrated Circuits
 <p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
+<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="https://uofi.app.box.com/folder/191156772642?box_action=go_to_item&box_source=legacy-folder_collab_auto_accept_new" target="_blank"> Lab Homework</a></p>
 
 <br>
 
