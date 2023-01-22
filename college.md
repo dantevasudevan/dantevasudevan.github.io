@@ -23,7 +23,8 @@
 <br>
 
 # Electronics Laboratory
-See Canvas (under Main Websites)
+<p><img src="https://www.electronicsb2b.com/wp-content/uploads/2017/05/electronics.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/sp2023/index.html" target="_blank"> Main Website</a></p>
+<p><img src="https://www.electronicsb2b.com/wp-content/uploads/2017/05/electronics.png" width="22" height="22"><a href="https://campuswire.com/c/GA09D4B3A/feed" target="_blank"> Campuswire</a></p>
 
 <br>
 
