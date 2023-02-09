@@ -39,6 +39,7 @@
 
 # Introduction to Astrophysics
 <p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F12168-galaxy-space.jpg&f=1&nofb=1&ipt=e8cc1205120c48394c95f67c42d6e1019862b273d9d5393560f06843ddc8fd22&ipo=images" width="22" height="22"><a href="https://canvas.illinois.edu/courses/35146/files/folder/Lecture%20slides" target="_blank"> Lecture Slides</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F12168-galaxy-space.jpg&f=1&nofb=1&ipt=e8cc1205120c48394c95f67c42d6e1019862b273d9d5393560f06843ddc8fd22&ipo=images" width="22" height="22"><a href="https://learn.illinois.edu/mod/forum/view.php?id=7664615" target="_blank"> Night Observation</a></p>
 
 
 
