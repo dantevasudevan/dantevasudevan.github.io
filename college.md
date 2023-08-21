@@ -9,17 +9,16 @@
 
 <br>
 
-# Fields and Waves
-<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece350/" target="_blank"> Main Website</a></p>
-<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://campuswire.com/c/G2291B881/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://media.istockphoto.com/illustrations/electromagnetic-wave-illustration-id497679380?k=6&m=497679380&s=170667a&w=0&h=a8D4t5792ToQVYWH0EoV0W9deXTPZKgLg2h_0yoR01s=" width="22" height="22"><a href="https://www.gradescope.com/" target="_blank"> GradeScope</a></p>
+# Optical Imaging
+<p><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Microscope-256.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece460/fa2023/" target="_blank"> Main Website</a></p>
 
 <br>
 
-# Theory and Fabrication of Integrated Circuits
-<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="http://fabweb.ece.illinois.edu/" target="_blank"> Main Website</a></p>
-<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="https://uofi.app.box.com/folder/191156772642?box_action=go_to_item&box_source=legacy-folder_collab_auto_accept_new" target="_blank"> Lab Homework</a></p>
-<p><img src="http://s3v.computerhistory.org/102695604-03-01.jpg?$re-story-hero$" width="22" height="22"><a href="https://mediaspace.illinois.edu/media/t/1_irlimo69" target="_blank"> Former Lectures</a></p>
+# Introduction to Plasmas
+<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://canvas.illinois.edu/courses/36827" target="_blank"> Main Website</a></p>
+<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://mediaspace.illinois.edu/channel/NPRE_GLBS%2B201%253A%2BEnergy%2BSystems%2B-%2BPre-Lecture%2BVideos/174348671" target="_blank"> Lecture Videos</a></p>
+<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://ensemble.illinois.edu/app/plugin/embed.aspx?idn_playlist=01c862c9-bfc6-422f-b218-9ad051933de6&idn_init=False&idn_sig=fhVNJRUOUNRu2dFzdMJpjB22fyA%3D&destinationID=yWLIAca_L0KyGJrQUZM95g&orderBy=videoTitle&pageIndex=1&pageSize=20" target="_blank"> Extra Videos</a></p>
+<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://www.gradescope.com/courses/581679" target="_blank"> Homework</a></p>
 
 <br>
 
@@ -29,7 +28,7 @@
 
 <br>
 
-# Numerical Methods
+# Semiconductor Minor
 <p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="_blank"> Main Website</a></p>
 <p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://campuswire.com/c/GAB7F225D/feed" target="_blank"> Campuswire</a></p>
 <p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://us.prairielearn.com/pl/course_instance/129681/assessments" target="_blank"> PrarieLearn</a></p>
@@ -37,9 +36,8 @@
 
 <br>
 
-# Introduction to Astrophysics
-<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F12168-galaxy-space.jpg&f=1&nofb=1&ipt=e8cc1205120c48394c95f67c42d6e1019862b273d9d5393560f06843ddc8fd22&ipo=images" width="22" height="22"><a href="https://canvas.illinois.edu/courses/35146/files/folder/Lecture%20slides" target="_blank"> Lecture Slides</a></p>
-<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2016%2F01%2F12168-galaxy-space.jpg&f=1&nofb=1&ipt=e8cc1205120c48394c95f67c42d6e1019862b273d9d5393560f06843ddc8fd22&ipo=images" width="22" height="22"><a href="https://learn.illinois.edu/mod/forum/view.php?id=7664615" target="_blank"> Night Observation</a></p>
+# Volleyball
+<p><img src="https://freepngclipart.com/download/volleyball/78550-vector-volleyball-png-download-free.png" width="40" height="22"><a href="https://canvas.illinois.edu/courses/36827" target="_blank">Main Website</a></p>
 
 
 
