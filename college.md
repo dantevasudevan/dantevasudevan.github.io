@@ -33,7 +33,7 @@
 <br>
 
 # Volleyball
-<p><img src="https://freepngclipart.com/download/volleyball/78550-vector-volleyball-png-download-free.png" width="35" height="22"><a href="https://canvas.illinois.edu/courses/36827" target="_blank">Main Website</a></p>
+<p><img src="https://freepngclipart.com/download/volleyball/78550-vector-volleyball-png-download-free.png" width="32" height="22"><a href="https://canvas.illinois.edu/courses/36827" target="_blank">Main Website</a></p>
 
 
 
