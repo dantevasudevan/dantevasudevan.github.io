@@ -29,10 +29,6 @@
 <br>
 
 # Semiconductor Minor
-<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="_blank"> Main Website</a></p>
-<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://campuswire.com/c/GAB7F225D/feed" target="_blank"> Campuswire</a></p>
-<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://us.prairielearn.com/pl/course_instance/129681/assessments" target="_blank"> PrarieLearn</a></p>
-<p><img src="https://www.vcssl.org/en-us/code/archive/0001/7300-graph-file-animator-3d/image/point.png" width="22" height="22"><a href="https://us.prairietest.com/pt" target="_blank"> PrarieTest</a></p>
 
 <br>
 
