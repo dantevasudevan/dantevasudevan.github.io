@@ -29,7 +29,7 @@
 <br>
 
 # Semiconductor Minor
-<p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/courses/38756" target="_blank">Main Website</a></p>
+<p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/courses/38756" target="_blank"> Main Website</a></p>
 
 <br>
 
