@@ -15,10 +15,7 @@
 <br>
 
 # Introduction to Plasmas
-<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://canvas.illinois.edu/courses/36827" target="_blank"> Main Website</a></p>
-<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://mediaspace.illinois.edu/channel/NPRE_GLBS%2B201%253A%2BEnergy%2BSystems%2B-%2BPre-Lecture%2BVideos/174348671" target="_blank"> Lecture Videos</a></p>
-<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://ensemble.illinois.edu/app/plugin/embed.aspx?idn_playlist=01c862c9-bfc6-422f-b218-9ad051933de6&idn_init=False&idn_sig=fhVNJRUOUNRu2dFzdMJpjB22fyA%3D&destinationID=yWLIAca_L0KyGJrQUZM95g&orderBy=videoTitle&pageIndex=1&pageSize=20" target="_blank"> Extra Videos</a></p>
-<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://www.gradescope.com/courses/581679" target="_blank"> Homework</a></p>
+<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://canvas.illinois.edu/courses/37349" target="_blank"> Main Website</a></p>
 
 <br>
 
