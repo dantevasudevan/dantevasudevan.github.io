@@ -11,6 +11,7 @@
 
 # Optical Imaging
 <p><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Microscope-256.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece460/fa2023/" target="_blank"> Main Website</a></p>
+<p><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Microscope-256.png" width="22" height="22"><a href="https://uofi.app.box.com/folder/224882672515" target="_blank"> Homework and Lab Upload</a></p>
 
 <br>
 
