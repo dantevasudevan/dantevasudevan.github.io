@@ -28,6 +28,7 @@
 
 # Semiconductor Minor
 <p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/courses/38756" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://mediaspace.illinois.edu/channel/Semiconductor%2BChips%2BRevolution%2B%2528ECE%2B298%2BRR%2529%2BFall%2B2023/310160962" target="_blank"> Video Recordings</a></p>
 
 <br>
 
