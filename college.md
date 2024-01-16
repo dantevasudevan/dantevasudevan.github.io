@@ -9,32 +9,20 @@
 
 <br>
 
-# Optical Imaging
-<p><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Microscope-256.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece460/fa2023/" target="_blank"> Main Website</a></p>
-<p><img src="https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Microscope-256.png" width="22" height="22"><a href="https://uofi.app.box.com/folder/224882672515" target="_blank"> Homework and Lab Upload</a></p>
+# Senior Design Project
+<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece445/" target="_blank"> Main Website</a></p>
+<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece445/calendar.asp" target="_blank"> Calendar</a></p>
+<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece445/guidelines/grading-scheme.asp" target="_blank"> Assignments and Grading</a></p>
+<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece445/login.asp" target="_blank"> Web Board</a></p>
+<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://courses.engr.illinois.edu/ece445/people.asp" target="_blank"> Office Hours</a></p>
 
 <br>
 
-# Introduction to Plasmas
-<p><img src="https://whatisnuclear.com/img/plasma_lamp.png" width="22" height="22"><a href="https://canvas.illinois.edu/courses/37349" target="_blank"> Main Website</a></p>
+# Semiconductor Physics and Modeling
 
 <br>
 
-# Electronics Laboratory
-<p><img src="https://www.electronicsb2b.com/wp-content/uploads/2017/05/electronics.png" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece343/fa2023/index.html" target="_blank"> Main Website</a></p>
-<p><img src="https://www.electronicsb2b.com/wp-content/uploads/2017/05/electronics.png" width="22" height="22"><a href="https://campuswire.com/c/GA09D4B3A/feed" target="_blank"> Campuswire</a></p>
-
-<br>
-
-# Semiconductor Minor
-<p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://canvas.illinois.edu/courses/38756" target="_blank"> Main Website</a></p>
-<p><img src="https://i.ibb.co/D5Ydm5R/semiconductor-gettyimages-179653150.jpg" width="22" height="22"><a href="https://mediaspace.illinois.edu/channel/Semiconductor%2BChips%2BRevolution%2B%2528ECE%2B298%2BRR%2529%2BFall%2B2023/310160962" target="_blank"> Video Recordings</a></p>
-
-<br>
-
-# Volleyball
-<p><img src="https://freepngclipart.com/download/volleyball/78550-vector-volleyball-png-download-free.png" width="33" height="22"><a href="https://canvas.illinois.edu/courses/37953" target="_blank">Main Website</a></p>
-
+# Photonic Device Laboratory
 
 
 <br>
