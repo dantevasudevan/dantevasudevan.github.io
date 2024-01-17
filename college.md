@@ -19,7 +19,7 @@
 <br>
 
 # Semiconductor Physics and Modeling
-<p><img src="https://i.ibb.co/vk6bTJz/Screenshot-2024-01-16-122829.png" width="22" height="22"><a href="https://canvas.illinois.edu/courses/43454/" target="_blank"> Main Website</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ansys.com%2Fis%2Fimage%2Fansys%2F2021-01-semiconductors-25d3d&f=1&nofb=1&ipt=5efd9e07646d3ce3eb3c1b51280118fa466d7604af8e2542c60e08c86db58876&ipo=images" width="23" height="21"><a href="https://canvas.illinois.edu/courses/43454/" target="_blank"> Main Website</a></p>
 
 <br>
 
