@@ -24,7 +24,7 @@
 <br>
 
 # Photonic Device Laboratory
-<p><img src="https://sunypoly.edu/sites/default/files/styles/news_full/public/2017-08/AIM_Photonics_Logo_720p_0.jpg?itok=tYJEe7K_" width="22" height="22"><a href="https://canvas.illinois.edu/courses/43454/" target="_blank"> Main Website</a></p>
+<p><img src="https://sunypoly.edu/sites/default/files/styles/news_full/public/2017-08/AIM_Photonics_Logo_720p_0.jpg?itok=tYJEe7K_" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece495/sp2024/" target="_blank"> Main Website</a></p>
 
 <br>
 <br>
