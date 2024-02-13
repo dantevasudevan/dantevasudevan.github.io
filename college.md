@@ -20,6 +20,7 @@
 
 # Semiconductor Physics and Modeling
 <p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ansys.com%2Fis%2Fimage%2Fansys%2F2021-01-semiconductors-25d3d&f=1&nofb=1&ipt=5efd9e07646d3ce3eb3c1b51280118fa466d7604af8e2542c60e08c86db58876&ipo=images" width="23" height="21"><a href="https://canvas.illinois.edu/courses/43454/" target="_blank"> Main Website</a></p>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ansys.com%2Fis%2Fimage%2Fansys%2F2021-01-semiconductors-25d3d&f=1&nofb=1&ipt=5efd9e07646d3ce3eb3c1b51280118fa466d7604af8e2542c60e08c86db58876&ipo=images" width="23" height="21"><a href="https://mediaspace.illinois.edu/createdby/eyJpdiI6IkFxNGtMK2lLckJvemVFSk9mXC9oUUpRPT0iLCJ2YWx1ZSI6InprUXRVeXRUR3o0Q28yenFlVGV1SGc9PSIsIm1hYyI6IjVjMTYwYTFiOWJjNWJiYjI4ZDAwNmEwMzcyOTA1MWE0M2I0MmRkMDM1OGZmMDhmNzgyOTliZmM4OThiYTI4ZjYifQ__" target="_blank"> Recorded Lectures</a></p>
 
 <br>
 
