@@ -27,6 +27,7 @@
 # Photonic Device Laboratory
 <p><img src="https://sunypoly.edu/sites/default/files/styles/news_full/public/2017-08/AIM_Photonics_Logo_720p_0.jpg?itok=tYJEe7K_" width="22" height="22"><a href="https://courses.grainger.illinois.edu/ece495/sp2024/" target="_blank"> Main Website</a></p>
 <p><img src="https://sunypoly.edu/sites/default/files/styles/news_full/public/2017-08/AIM_Photonics_Logo_720p_0.jpg?itok=tYJEe7K_" width="22" height="22"><a href="https://mediaspace.illinois.edu/createdby/eyJpdiI6IkhTUXRaY1g4dzYwK0x5dXpYV2lhbkE9PSIsInZhbHVlIjoiVSsxUG1MWGl1QTdJSnZTcUs4S3ZYQT09IiwibWFjIjoiNmJkZDFhMGE4MmI4NGQwYzUxMjJhMWM2MTA0OTgxYjFmOTQ0YmIwOWRhN2I4NTRkOGZlZGFmMTU2ZDVlNDVlNiJ9" target="_blank"> Recorded Lectures</a></p>
+<p><img src="https://sunypoly.edu/sites/default/files/styles/news_full/public/2017-08/AIM_Photonics_Logo_720p_0.jpg?itok=tYJEe7K_" width="22" height="22"><a href="https://uofi.app.box.com/folder/245068907678" target="_blank"> Lab Submissions</a></p>
 
 <br>
 <br>
