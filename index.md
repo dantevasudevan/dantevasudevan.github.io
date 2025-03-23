@@ -1,7 +1,8 @@
 # About Me
 
-My name is Dante Vasudevan.
-I am a student aspiring electrical engineering at University of Illinois at Urbana-Champaign. I have an interest in soccer, and chess, but most of all I love learning new things.
+My name is Dante Vasudevan. <br>
+I am a semiconductor engineer, an alumni of University of Illinois a Urbana Champaign. I have an interest in soccer, and chess, but most of all I love learning new things. <br>
+Think of the most incredible person you know. Now double that and give it to the next person. You can imagine that person is me. (Your imagination may differ from reality)
 
 <br>
 <br>
