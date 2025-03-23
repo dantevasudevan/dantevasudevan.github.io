@@ -20,4 +20,4 @@ It was a dark and stormy night, not a cloud in the sky, nor a sound to be heard.
 <br>
 <br>
 
-This will be inconsistently updated daily
+<b> This will be inconsistently updated daily </b>
