@@ -14,3 +14,10 @@ Today began with the end. Fin.
 ### Day 25
 
 It was a dark and stormy night, not a cloud in the sky, nor a sound to be heard. Yet there I was, standing, as dry as the rain.
+
+
+
+<br>
+<br>
+
+This will be inconsistently updated daily
