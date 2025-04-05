@@ -15,7 +15,7 @@
 <h3>Hakone</h3>
 <h3>Osaka</h3>
 <h3>Tokyo</h3>
-<h3>Kamokochi/Nishi Waterfall/Other</h3>
+<h3>Kamikochi/Nachi Waterfall/Other</h3>
 
 <br>
 
