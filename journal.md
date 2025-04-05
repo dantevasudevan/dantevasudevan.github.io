@@ -2,8 +2,8 @@
 <br>
 <br>
 <style>
-    h3 {
-        color: #159957;
+    a {
+        color: inherit;
     }
 </style>
 
