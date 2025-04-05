@@ -21,8 +21,8 @@
 
 # Spain
 
-### Madrid
-### Babia
+<h3><a href="/spain#madrid">Madrid</a></h3>
+<h3>Babia</h3>
 
 
 <br>
