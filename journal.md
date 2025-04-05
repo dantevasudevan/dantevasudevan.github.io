@@ -7,21 +7,16 @@
 <h1>Japan</h1>
 
 <h3><a href="/japan#kyoto">Kyoto</a></h3>
-
-### Hakone
-
-### Osaka
-
-### Tokyo
-
-### Kamokochi/Nishi Waterfall/Other
+<h3>Hakone</h3>
+<h3>Osaka</h3>
+<h3>Tokyo</h3>
+<h3>Kamokochi/Nishi Waterfall/Other</h3>
 
 
 
 # Spain
 
 ### Madrid
-
 ### Babia
 
 
