@@ -7,8 +7,6 @@
     }
 </style>
 
-
-
 <h3><a href="/japan#recent">Jump to most Recent Journal Entry</a></h3>
 
 <h1>Japan</h1>
