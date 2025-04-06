@@ -12,7 +12,7 @@
 <h1>Japan</h1>
 
 <h3><a href="/japan#kyoto">Kyoto</a></h3>
-<h3>Hakone</h3>
+<h3><a href="/japan#hakone">Hakone</a></h3>
 <h3>Osaka</h3>
 <h3>Tokyo</h3>
 <h3>Kamikochi/Nachi Waterfall/Other</h3>

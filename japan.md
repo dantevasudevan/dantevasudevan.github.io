@@ -30,6 +30,8 @@ Hike to Otsu
 
 Bamboo Forest, Monkeys, Ramen n Chill
 
+<h2 id="hakone">Hakone</h2>
+
 <h4 id="recent">Day 5</h4>
 
 Shinkensen to Hakone
