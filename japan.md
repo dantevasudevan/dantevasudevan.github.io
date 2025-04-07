@@ -2,7 +2,7 @@
 
 <h2 id="kyoto">Kyoto</h2>
 
-<h4>Day 1</h4>
+<h4>March 31 - April 2 (Day 1)</h4>
 
 The timeline of today’s entry will be very convoluted. We are going to completely redefine what a “day” is, and it will only make sense if you don’t think about it too much. Don’t blame me, blame the human time system, an arbitrary concept which could have been designed much better, but it’s now the universal standard and it’s too late to change it. 
 
@@ -18,7 +18,7 @@ The end of my day consisted of speaking with Dede, a Danish girl about things to
 
 I have now returned to my hostel, and will have a much needed rest to tackle day 2. 
 
-<h4>Day 2</h4>
+<h4>April 3 (Day 2)</h4>
 
 The second day was all about getting the touristy things out of the way. I had woken up in the middle of the night, around 2:30am still due to jet lag, and popped a melatonin before attempting to sleep. Despite this, I still woke up around 7am. By 8am, I was out the door, ready to tackle the palace and castles, which once represented the Old Capital before it was moved in the 1800s to Edo (now called Tokyo).
 
@@ -34,7 +34,7 @@ By this time, I got hungry, and went to the Nishi Market. This is a whole pedest
 
 I met up with my hostel mates again, Dede was still there, but the Australian girl had left for the F1 Grand Prix in Suzuka, and was replaced with Chris, a German guy around my age. Somehow, he had built up 5 months of paid time off, and was using it to travel around. Before this, he went to New Zealand, and then to the Phillipines. The Phillipines was nice, but he had missed hiking in New Zealand so much, that when I mentioned my hiking plans for tomorrow, he excitedly asked to join me. All three of us made plans for the evening to see the Kyoto Tower and grab some dinner. The kyoto tower was nice, especially lit up at night, but nothing to shout home about. After another delicious bowl of Ramen, we returned home, where I very quickly fell asleep.
 
-<h4>Day 3</h4>
+<h4>April 4 (Day 3)</h4>
 
 I again had to take melatonin at 3 in the morning, and once again woke up at 7:00am approx. I hung out in my room until 8am, when I decided that it would be best to start the day and quickly showered up. As soon as Chris, was ready, we set off for the Philosopher's path, grabbing some cold udon for breakfast along the way.
 
@@ -50,7 +50,7 @@ We finally made it to Otsu, and reached a park by the lake. We sat down, and loo
 
 We pretty much rested for the rest of the day. We had another roommate join us, Fabrizio, an older Italian, also here for the F1 Suzuka Grand Prix. We went out to dinner, an italian restaurant this time which was overpriced in my opinion, but a nice change of pace nonetheless. We made plans for tomorrow, and upon returning back to the hostel, I crashed.
 
-<h4>Day 4</h4>
+<h4>April 5 (Day 4)</h4>
 
 Day 4 was a half day for me. This time, I did not wake up in the middle of the night, and instead woke up around 6am. I decided once again to chill in bed, until we got ready to go out around 8am to see the Arashiyama Bamboo Forest, and the Monkey Park at Iwatayama Summit.
 
@@ -66,6 +66,34 @@ After returning home, I showered up and packed up all my things, ready for my tr
 
 <h2 id="hakone">Hakone</h2>
 
-<h4 id="recent">Day 5</h4>
+<h4>April 6 (Day 5)</h4>
 
-Shinkensen to Hakone
+Day 5 was my travel day. While everything was set up the day before, meaning it should have been the simplest, smoothest day, today was anything but.
+
+I woke up at 9am, wore my set last clean clothes (since I was going to do my laundry at my next place anyway), exchanged contact with Chris, checked out by 10am, and made the 10:33am shinkansen to Odawara. The bullet trains are fast. Not only do you feel the acceleration for a lot longer than you expect, but you also get surprised how much distance you cover. A little into the trip, I decided to open Google Maps to check how long the train was, and I was shocked to see how far away from Kyoto station I was. Even the hills and mountains I passed in the far distance became no longer visible out my window within 30 seconds, which was another thing I had noticed.
+
+I arrived at Odawara station, and promptly picked up a bus to Hakone, where I was staying. It started raining almost immediately after I entered the bus, however I forgot to thank nature for waiting. I must remember to do that next time. The bus took an hour and passed through scenic areas. Pretty views of the mountains, the lake, and we even passed by Owakudani, a volcanic valley with active sulfur vents and hot springs, where we could see steam eminating from the barren ground.
+
+The bus reached my stop around 2pm, however I could not check in until 4pm. I decided to hang out in the common room for 2 hours, as I did not want to walk around dragging my luggage everywhere. After asking a guest for the wifi password, I watched the latest episode of Jet Lag the Game with Sangeetha, and had some vending machine noodles for lunch. Once checked in, and bags unloaded, I went to go run the laundry when I realized: I dont have any laundry detergent. And the worst part was, I didnt pick any up while I was in Kyoto, the big city, and now the nearest place I could get laundry detergent was an hour bus ride away. 
+
+It took me two hours to go there and back to acquire my laundry detergent, and by then I was feeling hungry. Thats when the next problem struck. It turned out, all the restaurants in my local area closed at 4. I need to be weary of that during my stay here. The nearest restaurant that was open was almost hour away, 20 minutes by bus followed by 30 minutes of walking. I decided it was worth it, as I needed dinner, but also it was near the Hakone Shrine, a large red shrine out on the water.
+
+While waiting for the bus, I was able to get a nice view of the local area. I saw the pirate ship, which I will take at a later date docked at the nearby port on the lake, and got a really nice view of the lake from a lookout point. The layers of hills, each one a different grade overlapping one another as the lake disappeared in the distance reminded me a lot of Lecco. After taking the bus and walking for a bit I got some very nice views of the lake, but also found some hidden pathways down to the lake. One of them were stairs leading into the foliage, which was mostly overgrown, but also created sort of a tunnel effect as you walked under the tall grass. It led to a secluded beachside, which I decided I must come back to during the daytime. I finally reached the shrine, but by then it was quite dark and there wasnt much of a view.
+
+By this point, only two restaurants were open, one of which was a family owned restaurant and bar which had a very homey appearance. I ordered this braised pork belly bowl, which was delicious, and talked with the owners a little bit. It turned out, the current owners became that only 2 months ago, when the previous owners retired. After dinner, I wanted to take the bus home, when I got hit with the final nail in the coffin: the busses had stopped running! I would have to walk 7 km back to my hostel, in the cold dark, through the woods. My motivating factor in that moment was merely the sooner I got started, the sooner I would get back, and it wasnt that bad as my estimated time of arrival was 9:00pm.
+
+It was a beautiful walk under the moonlight, but I was not enjoying it very much. Nonetheless, I made it back to my hostel, where I was able to shower up, and crash.
+
+<h4 id="recent">April 7 (Day 6)</h4>
+
+Today was a chill day. I wanted nothing more than to relax and do nothing. I had planned on my chill day being a different day, but based on the weather, doway was going to be thunderstormy, which was not great conditions for going out and doing activities. The next two days are going to be sunny, and those are the perfect days to do lots of travelling and taking many pictures.
+
+I waited out the storm by watching tv shows, youtube, and catching up on my journal. I also finally did my laundry, so I am ready for the next week. Despite being indoors, I could hear the thunder booming outside, and was soo glad I was dry, indoors, laying on a comfy bed. When the storm subsided, I decided to head out to grab food. Unfortunately, I was too late to grab food in my local area, but there were more options in the surrounding villages stil open, prompting me to go elsewhere and try something new. 
+
+I took the bus to a nearby village, where I had to climb many stairs up the mountain from the bus stop below. I was out of breath when I reached the top, but the village was beautiful. More cherry blossoms, creeks with cascades, and even a tiny train station. I did not know that existed, or where the train even goes to, because this was something that did not appear on Google Maps. 
+
+I ate at this tofu restaurant, and probably had my second most delicious meal. I had this crispy tofu in some savory sauce with eggs, leeks, caramelized onions, and rice, and a side of tofu miso soup and chilled sake. After dinner, I walked back to a different bus stop passing by a whole river of hot-spring water with steam eminating from it. Luckily the busses were still running, so I got home in no time.
+
+The last activity I decided to do was the onsen. My hotel had a public bath created from the hot springs, one for men, and one for women, however it was a bathing area with strict rules. The weird rules were, no bathing in bathing suits, you had to be fully nude. That was extremely uncomfortable, but I needed to shower and wind down, and the fact there were other people there actually made it less weird. The onsen was actually quite relaxing, but it was actually very warm, to the point of hot tub temperatures. Truth be told, the best part of the experience was the cold shower I had after exiting. After the process, I also got to put on a traditional Japanese Yukata, which was pretty cool to wear.
+
+I am now winding down, ready to do the classic Hakone touristy stuff tomorrow. 
