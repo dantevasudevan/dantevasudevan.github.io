@@ -2,8 +2,15 @@
 <br>
 <br>
 <style>
-    a {
+    a:link {
         color: inherit;
+    }
+    a:visited {
+        color: inherit;
+    }
+    a:hover {
+        color: blue;
+        text-decoration: underline;
     }
 </style>
 
