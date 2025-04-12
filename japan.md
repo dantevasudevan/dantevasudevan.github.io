@@ -72,7 +72,7 @@ Day 5 was my travel day. While everything was set up the day before, meaning it 
 
 I woke up at 9am, wore my set last clean clothes (since I was going to do my laundry at my next place anyway), exchanged contact with Chris, checked out by 10am, and made the 10:33am shinkansen to Odawara. The bullet trains are fast. Not only do you feel the acceleration for a lot longer than you expect, but you also get surprised how much distance you cover. A little into the trip, I decided to open Google Maps to check how long the train was, and I was shocked to see how far away from Kyoto station I was. Even the hills and mountains I passed in the far distance became no longer visible out my window within 30 seconds, which was another thing I had noticed.
 
-I arrived at Odawara station, and promptly picked up a bus to Hakone, where I was staying. It started raining almost immediately after I entered the bus, however I forgot to thank nature for waiting. I must remember to do that next time. The bus took an hour and passed through scenic areas. Pretty views of the mountains, the lake, and we even passed by Owakudani, a volcanic valley with active sulfur vents and hot springs, where we could see steam eminating from the barren ground.
+I arrived at Odawara station, and promptly picked up a bus to Hakone, where I was staying. It started raining almost immediately after I entered the bus, however I forgot to thank nature for waiting. I must remember to do that next time. The bus took an hour and passed through scenic areas. Pretty views of the mountains, the lake, and we even passed by <a name="owakudani">Owakudani, a volcanic valley with active sulfur vents and hot springs, where we could see steam eminating from the barren ground.</a>
 
 The bus reached my stop around 2pm, however I could not check in until 4pm. I decided to hang out in the common room for 2 hours, as I did not want to walk around dragging my luggage everywhere. After asking a guest for the wifi password, I watched the latest episode of Jet Lag the Game with Sangeetha, and had some vending machine noodles for lunch. Once checked in, and bags unloaded, I went to go run the laundry when I realized: I dont have any laundry detergent. And the worst part was, I didnt pick any up while I was in Kyoto, the big city, and now the nearest place I could get laundry detergent was an hour bus ride away. 
 
@@ -84,7 +84,7 @@ By this point, only two restaurants were open, one of which was a family owned r
 
 It was a beautiful walk under the moonlight, but I was not enjoying it very much. Nonetheless, I made it back to my hostel, where I was able to shower up, and crash.
 
-<h4 id="recent">April 7 (Day 6)</h4>
+<h4>April 7 (Day 6)</h4>
 
 Today was a chill day. I wanted nothing more than to relax and do nothing. I had planned on my chill day being a different day, but based on the weather, doway was going to be thunderstormy, which was not great conditions for going out and doing activities. The next two days are going to be sunny, and those are the perfect days to do lots of travelling and taking many pictures.
 
@@ -97,3 +97,7 @@ I ate at this tofu restaurant, and probably had my second most delicious meal. I
 The last activity I decided to do was the onsen. My hotel had a public bath created from the hot springs, one for men, and one for women, however it was a bathing area with strict rules. The weird rules were, no bathing in bathing suits, you had to be fully nude. That was extremely uncomfortable, but I needed to shower and wind down, and the fact there were other people there actually made it less weird. The onsen was actually quite relaxing, but it was actually very warm, to the point of hot tub temperatures. Truth be told, the best part of the experience was the cold shower I had after exiting. After the process, I also got to put on a traditional Japanese Yukata, which was pretty cool to wear.
 
 I am now winding down, ready to do the classic Hakone touristy stuff tomorrow. 
+
+<h4 id="recent">April 8 (Day 7)</h4>
+
+I got to sleep in today. That was incredible, with the exception that I am still naturally waking up at 7am approximately. After getting up, showering, brushing my teeth, and locking my valueables in the locker, I was out the door by 8:50am. My hostel is very close to the cable-car station that takes us up to <a href="/japan#owakudani">Owakendai<sup>⌕</sup></a>.
