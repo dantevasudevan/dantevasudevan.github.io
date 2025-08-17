@@ -132,7 +132,7 @@
   <main class="app">
     <!-- HOME VIEW -->
     <section id="view-home" class="stack fade">
-      <h1>SOTPAL</h1>
+      <h1>Sotpal</h1>
       <p class="muted">A social deduction game of confident bluffing</p>
 
       <div class="panel stack">
@@ -151,7 +151,6 @@
     <!-- ENTER TOPIC VIEW -->
     <section id="view-enter" class="stack hidden fade" aria-live="polite">
       <h2>Enter Your Topic</h2>
-      <div class="chip" id="topic-counter">Topic 1 of 4</div>
       <form id="topic-form" class="stack" autocomplete="off">
         <input id="topic-input" class="input" type="text" placeholder="Type a random, obscure topic..." maxlength="160" />
         <div class="grid-2">
@@ -188,7 +187,6 @@
     const form = document.getElementById('topic-form');
     const input = document.getElementById('topic-input');
     const btnClear = document.getElementById('btn-clear');
-    const counter = document.getElementById('topic-counter');
 
     const chosenEl = document.getElementById('chosen-topic');
     const btnNext = document.getElementById('btn-next');
@@ -209,12 +207,6 @@
       nPlayers = Number(val);
       playersVal.textContent = String(nPlayers);
       targetCount = Math.max(2, nPlayers - 1); // n>=3 -> at least 2 topics
-      updateCounter();
-    }
-
-    function updateCounter() {
-      const nextIndex = Math.min(topics.length + 1, targetCount);
-      counter.textContent = `Topic ${nextIndex} of ${targetCount}`;
     }
 
     function resetRound(keepPlayers = true) {
@@ -223,7 +215,6 @@
         updatePlayers(5);
         playersRange.value = '5';
       }
-      updateCounter();
       input.value = '';
     }
 
@@ -236,7 +227,6 @@
       targetCount = Math.max(2, Number(playersRange.value) - 1);
       nPlayers = Number(playersRange.value);
       resetRound(true);
-      updateCounter();
       show('enter');
     });
 
@@ -255,7 +245,6 @@
         chosenEl.textContent = chosen;
         show('reveal');
       } else {
-        updateCounter();
         input.focus();
       }
     });
@@ -263,7 +252,6 @@
     btnNext.addEventListener('click', () => {
       // keep same player count; start new round
       resetRound(true);
-      updateCounter();
       show('enter');
     });
 
