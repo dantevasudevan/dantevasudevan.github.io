@@ -151,7 +151,6 @@
     <!-- ENTER TOPIC VIEW -->
     <section id="view-enter" class="stack hidden fade" aria-live="polite">
       <h2>Enter Your Topic</h2>
-      <div class="chip" id="topic-counter">Topic 1 of 4</div>
       <form id="topic-form" class="stack" autocomplete="off">
         <input id="topic-input" class="input" type="text" placeholder="Type a random, obscure topic..." maxlength="160" />
         <div class="grid-2">
@@ -188,7 +187,6 @@
     const form = document.getElementById('topic-form');
     const input = document.getElementById('topic-input');
     const btnClear = document.getElementById('btn-clear');
-    const counter = document.getElementById('topic-counter');
 
     const chosenEl = document.getElementById('chosen-topic');
     const btnNext = document.getElementById('btn-next');
