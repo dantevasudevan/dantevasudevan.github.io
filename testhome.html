@@ -1,75 +1,146 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>About Me - Dante Vasudevan</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About Me — Dante Vasudevan</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
+    :root {
+      --bg: #0f1220;
+      --panel: #171a2b;
+      --panel-2: #1d2136;
+      --accent: #7c9cff;
+      --accent-2: #a8ffcf;
+      --text: #e8ebff;
+      --muted: #9aa3c7;
+      --radius: 16px;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
     }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      text-align: center;
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      background: radial-gradient(1200px 700px at 70% -10%, #1b2246 0%, var(--bg) 42%), var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Noto Sans", "Helvetica Neue", Arial;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 24px;
+    }
+    .app {
+      width: min(900px, 100%);
+      background: linear-gradient(180deg, var(--panel) 0%, var(--panel-2) 100%);
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: clamp(18px, 3vw, 28px);
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-bottom: 28px;
+    }
+    nav a {
+      text-decoration: none;
+      color: var(--text);
+      background: rgba(255,255,255,0.05);
+      padding: 8px 16px;
+      border-radius: var(--radius);
+      border: 1px solid rgba(255,255,255,0.08);
+      transition: background 0.2s, color 0.2s;
+    }
+    nav a:hover {
+      background: var(--accent);
+      color: #0f1220;
     }
     h1 {
-      color: #222;
+      font-size: clamp(28px, 3.5vw, 40px);
+      letter-spacing: 0.5px;
+      margin-bottom: 10px;
     }
-    p {
-      margin-bottom: 20px;
+    .muted {
+      color: var(--muted);
+      margin-bottom: 18px;
+    }
+    .panel {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: var(--radius);
+      padding: 16px;
+      margin-top: 20px;
     }
     .button-links {
       display: flex;
       justify-content: center;
       gap: 30px;
-      margin-top: 50px;
+      margin-top: 40px;
     }
     .button-links a {
-      display: inline-block;
+      display: inline-flex;
       cursor: pointer;
+      text-decoration: none;
+      align-items: center;
+      justify-content: center;
     }
+    /* Standard rectangular buttons */
     .button-links img {
-      width: 60px;
-      height: auto;
+      height: 60px; /* consistent height */
+      width: auto;
       border-radius: 8px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+      border: 2px solid rgba(255,255,255,0.1);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.3);
       transition: transform 0.2s, filter 0.2s;
+      object-fit: contain;
+      background: #fff;
+      padding: 4px;
+    }
+    /* GitHub logo special circular crop */
+    .github-btn img {
+      border-radius: 50%;
+      object-fit: cover;
+      height: 60px;
+      width: 60px; /* force circle */
+      background: #fff;
     }
     .button-links a:hover img {
       filter: brightness(1.2);
-      transform: scale(1.15);
+      transform: scale(1.1);
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>About Me</h1>
-    <p>
-      My name is Dante Vasudevan. <br>
-      I am a semiconductor engineer, an alumni of University of Illinois a Urbana Champaign. 
-      I have an interest in soccer, and chess, but most of all I love learning new things. <br>
-      Think of the most incredible person you know. Now double that and give it to the next person. 
+  <div class="app">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="https://dantevasudevan.github.io/artwork">Artwork</a>
+      <a href="https://dantevasudevan.github.io/sotpal">SOTPAL</a>
+    </nav>
+
+    <h1>Hi! I'm Dante Vasudevan</h1>
+    <p class="muted">
+      <br>
+      <br>
+      I am a semiconductor engineer, an alumni of University of Illinois a Urbana Champaign.
+      I have an interest in soccer, and chess, but most of all I love learning new things.<br>
+      Think of the most incredible person you know. Now double that and give it to the next person.
       You can imagine that person is me. (Your imagination may differ from reality)
+      <br>
+      <br>
+      <br>
     </p>
 
-    <!-- Social Buttons -->
-    <div class="button-links">
-      <a href="https://github.com/Speedyflames" target="_blank">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.D_Gm8IGCvkqmOgtU2hueVwHaHS%26pid%3DApi&f=1" alt="GitHub">
+    <div class="panel button-links">
+      <a class="github-btn" href="https://github.com/Speedyflames" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="GitHub">
       </a>
       <a href="https://www.linkedin.com/in/dantevasudevan" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn">
       </a>
       <a href="https://www.youtube.com/channel/UCxHx9sbwcqApbpsxXJZp23g" target="_blank">
         <img src="https://pngimg.com/uploads/youtube/youtube_PNG102352.png" alt="YouTube">
       </a>
-      <a href="mailto:dantevasudevan@gmail.com?subject=subject%20text">
+      <a href="mailto:dantevasudevan@gmail.com?subject=Hey">
         <img src="http://3.bp.blogspot.com/-O231QKWcdH0/VGIFcFuWo5I/AAAAAAAAPnE/S3a8H6twUoE/s1600/logo_gmail_color_112in128dp.png" alt="Email">
       </a>
     </div>
