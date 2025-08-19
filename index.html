@@ -112,9 +112,10 @@
     @media (max-width: 600px) {
       .button-links {
         display: grid;
-        grid-template-columns: repeat(5, 1fr); /* 5 equal columns */
-        justify-items: center;
-        gap: 20px;
+        grid-template-columns: repeat(5, 60px); /* fixed width = button size */
+        justify-content: center; /* center the grid block itself */
+        justify-items: center;   /* center items within slots */
+        gap: 0px;
       }
 
       /* Row 1: Resume (col1), GitHub (col3), LinkedIn (col5) */
