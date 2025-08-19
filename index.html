@@ -112,20 +112,22 @@
     @media (max-width: 600px) {
       .button-links {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* first row = 3 items */
+        grid-template-columns: repeat(3, 1fr); /* first row = 3 columns */
         justify-items: center;
         gap: 20px;
       }
 
-      /* Force the last two into the next row */
-      .button-links a:nth-child(4),
-      .button-links a:nth-child(5) {
-        grid-column: span 1; /* each takes one cell */
+      /* Force first three into row 1 */
+      .button-links a:nth-child(-n+3) {
+        grid-column: auto;
       }
 
-      /* Second row should only have 2 items, so we re-template */
-      .button-links {
-        grid-auto-rows: auto;
+      /* Put last two into a centered 2-column row */
+      .button-links a:nth-child(4) {
+        grid-column: 2; /* YouTube in middle-left */
+      }
+      .button-links a:nth-child(5) {
+        grid-column: 3; /* Mail in middle-right */
       }
     }
   </style>
@@ -142,7 +144,7 @@
     <p class="muted">
       <br>
       I am current Master's student at Northeastern University studying Semiconductor Engineering. I did my Bachelor's at University of Illinois, Urbana-Champaign in Electrical Engineering.
-      I have an interest in soccer, chess, hiking, and travelling, but most of all I love learning new things.<br>
+      I have an interest in soccer, chess, hiking, and travelling, but most of all I love learning new things.
       <br>
       Below, please find my Resume, GitHub, LinkedIn, Youtube, and Email.
     </p>
