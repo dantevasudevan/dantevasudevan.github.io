@@ -112,23 +112,19 @@
     @media (max-width: 600px) {
       .button-links {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* first row = 3 columns */
+        grid-template-columns: repeat(5, 1fr); /* 5 equal columns */
         justify-items: center;
         gap: 20px;
       }
 
-      /* Force first three into row 1 */
-      .button-links a:nth-child(-n+3) {
-        grid-column: auto;
-      }
+      /* Row 1: Resume (col1), GitHub (col3), LinkedIn (col5) */
+      .button-links a:nth-child(1) { grid-column: 1; }
+      .button-links a:nth-child(2) { grid-column: 3; }
+      .button-links a:nth-child(3) { grid-column: 5; }
 
-      /* Put last two into a centered 2-column row */
-      .button-links a:nth-child(4) {
-        grid-column: 2; /* YouTube in middle-left */
-      }
-      .button-links a:nth-child(5) {
-        grid-column: 3; /* Mail in middle-right */
-      }
+      /* Row 2: YouTube (col2), Gmail (col4) */
+      .button-links a:nth-child(4) { grid-column: 2; }
+      .button-links a:nth-child(5) { grid-column: 4; }
     }
   </style>
 </head>
