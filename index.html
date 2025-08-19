@@ -111,13 +111,22 @@
     /* Mobile: force two rows (3 + 2) */
     @media (max-width: 600px) {
       .button-links {
-        gap: 20px 40px; /* tighter gaps on mobile */
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* first row = 3 items */
+        justify-items: center;
+        gap: 20px;
       }
-      .button-links a {
-        flex: 0 1 80px; /* allow them to size neatly */
+
+      /* Force the last two into the next row */
+      .button-links a:nth-child(4),
+      .button-links a:nth-child(5) {
+        grid-column: span 1; /* each takes one cell */
       }
-      .button-links a:nth-child(-n+3) { order: 1; } /* Resume, GitHub, LinkedIn */
-      .button-links a:nth-child(n+4) { order: 2; }  /* YouTube, Email */
+
+      /* Second row should only have 2 items, so we re-template */
+      .button-links {
+        grid-auto-rows: auto;
+      }
     }
   </style>
 </head>
