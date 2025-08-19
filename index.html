@@ -110,29 +110,22 @@
     }
     /* Mobile: force two rows (3 + 2) */
     @media (max-width: 600px) {
-      /* Tweak these two numbers to taste */
-      :root {
-        --icon-size: 60px;     /* button size */
-        --grid-gap-x: 0px;    /* horizontal gap between columns */
-        --grid-gap-y: 20px;    /* vertical gap between rows */
-      }
-
       .button-links {
         display: grid;
-        grid-template-columns: repeat(3, var(--icon-size));
-        justify-content: center;   /* center the whole grid block */
-        justify-items: center;     /* center items in their cells */
-        gap: var(--grid-gap-y) var(--grid-gap-x);
+        grid-template-columns: repeat(5, 60px); /* fixed width = button size */
+        justify-content: center; /* center the grid block itself */
+        justify-items: center;   /* center items within slots */
+        gap: 20px 0px;
       }
 
-      /* Row 1 placement */
-      .button-links a:nth-child(1) { grid-column: 1; } /* Resume   */
-      .button-links a:nth-child(2) { grid-column: 2; } /* GitHub   */
-      .button-links a:nth-child(3) { grid-column: 3; } /* LinkedIn */
+      /* Row 1: Resume (col1), GitHub (col3), LinkedIn (col5) */
+      .button-links a:nth-child(1) { grid-column: 1; }
+      .button-links a:nth-child(2) { grid-column: 3; }
+      .button-links a:nth-child(3) { grid-column: 5; }
 
-      /* Row 2 placement (centered beneath) */
-      .button-links a:nth-child(4) { grid-column: 1; } /* YouTube  */
-      .button-links a:nth-child(5) { grid-column: 3; } /* Gmail    */
+      /* Row 2: YouTube (col2), Gmail (col4) */
+      .button-links a:nth-child(4) { grid-column: 2; }
+      .button-links a:nth-child(5) { grid-column: 4; }
     }
   </style>
 </head>
