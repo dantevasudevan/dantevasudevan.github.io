@@ -72,9 +72,10 @@
     .button-links {
       display: flex;
       justify-content: center;
+      flex-wrap: wrap; /* allow wrapping on small screens */
       gap: 30px;
       margin-top: 20px;
-      margin-bottom: 10px; /* so it's not flush with bottom */
+      margin-bottom: 10px;
     }
     .button-links a {
       display: inline-flex;
@@ -107,6 +108,17 @@
       filter: brightness(1.2);
       transform: scale(1.1);
     }
+    /* Mobile: force two rows (3 + 2) */
+    @media (max-width: 600px) {
+      .button-links {
+        gap: 20px 40px; /* tighter gaps on mobile */
+      }
+      .button-links a {
+        flex: 0 1 80px; /* allow them to size neatly */
+      }
+      .button-links a:nth-child(-n+3) { order: 1; } /* Resume, GitHub, LinkedIn */
+      .button-links a:nth-child(n+4) { order: 2; }  /* YouTube, Email */
+    }
   </style>
 </head>
 <body>
@@ -117,7 +129,6 @@
       <a href="https://dantevasudevan.github.io/sotpal">SOTPAL</a>
     </nav>
 
-    
     <h1>Hi! I'm Dante Vasudevan</h1>
     <p class="muted">
       <br>
