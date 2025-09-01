@@ -7,10 +7,11 @@
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://mysentrymd.com/SAML/SP/Login/NU" target="_blank"> Sentry MD</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.myflywire.com/accountSummary" target="_blank"> Payment Account</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://enroll.northeastern.edu/apply/status" target="_blank"> Application Page</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://www.husker.nu/" target="_blank"> Useful Links</a></p>
 <br>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://neu.campuslabs.com/engage/" target="_blank"> Find Events</a></p>
 
-<br>
+<br>https://www.husker.nu/
 
 # Tools and Softwares
 
