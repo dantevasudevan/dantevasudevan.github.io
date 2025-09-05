@@ -1,16 +1,21 @@
 # Main Websites
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://coe.northeastern.edu/academic-programs/ms-scde/" target="_blank"> Main Website</a></p>
-<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://student.me.northeastern.edu/" target="_blank"> Student Hub</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://service.northeastern.edu/appointments" target="_blank"> Student Services</a></p>
-<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.instructure.com/" target="_blank"> Canvas</a></p>
-<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://nubanner.neu.edu/StudentRegistrationSsb/ssb/registration" target="_blank"> Registration</a></p>
-<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://searchneu.com/NEU" target="_blank"> Course Search</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://mysentrymd.com/SAML/SP/Login/NU" target="_blank"> Sentry MD</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://member.bluecrossma.com/login" target="_blank"> Blue Cross Blue Shield</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.myflywire.com/accountSummary" target="_blank"> Payment Account</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://studentemployment.northeastern.edu/" target="_blank"> Student Employment</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://www.husker.nu/" target="_blank"> Useful Links</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://neu.campuslabs.com/engage/" target="_blank"> Find Events</a></p>
+
+<br>
+
+# Program Logistics
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://student.me.northeastern.edu/" target="_blank"> Student Hub</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.instructure.com/" target="_blank"> Canvas</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://nubanner.neu.edu/StudentRegistrationSsb/ssb/registration" target="_blank"> Registration</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://searchneu.com/NEU" target="_blank"> Course Search</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="file:///C:/Users/dante/Desktop/School/Graduate%20Program%20Guide%20-%20Fall%202025.pdf" target="_blank"> M.S. in Semiconductor Engineering Program Overview</a></p>
 
 <br>
 
