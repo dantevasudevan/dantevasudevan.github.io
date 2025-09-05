@@ -1,3 +1,15 @@
+<style>
+    a:link {
+        color: inherit;
+    }
+    a:visited {
+        color: inherit;
+    }
+    a:hover {
+        color: blue;
+        text-decoration: underline;
+    }
+</style>
 # Main Websites
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://coe.northeastern.edu/academic-programs/ms-scde/" target="_blank"> Main Website</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://service.northeastern.edu/appointments" target="_blank"> Student Services</a></p>
