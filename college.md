@@ -6,7 +6,8 @@
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://member.bluecrossma.com/home" target="_blank"> Blue Cross Blue Shield</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.myflywire.com/accountSummary" target="_blank"> Payment Account</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://studentemployment.northeastern.edu/" target="_blank"> Student Employment</a></p>
-<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://gls.northeastern.edu/" target="_blank"> Global Learner Support</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://gls.northeastern.edu/" target="_blank"> Global Learner Support (GLS)</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://learning.northeastern.edu/" target="_blank"> Center for Advancing Teaching and Learning through Research (CATLR)</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://www.husker.nu/" target="_blank"> Useful Links</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://neu.campuslabs.com/engage/" target="_blank"> Find Events</a></p>
 
