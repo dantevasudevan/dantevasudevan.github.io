@@ -1,4 +1,4 @@
-<p><a href="https://dantevasudevan.github.io/" target="_blank"> See my Revamped Home Page!!!</a></p>
+<p><a href="https://dantevasudevan.github.io/"> See my Revamped Home Page!!!</a></p>
 
 # About Me
 
