@@ -31,6 +31,7 @@
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern.instructure.com/" target="_blank"> Canvas</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://nubanner.neu.edu/StudentRegistrationSsb/ssb/registration" target="_blank"> Registration</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://searchneu.com/NEU" target="_blank"> Course Search</a></p>
+<p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://northeastern-csm.symplicity.com/students/app/home" target="_blank"> NUWorks</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://experientialnetwork.northeastern.edu/" target="_blank"> Experiential Network Main Website</a></p>
 <p><img src="https://clipground.com/images/northeastern-university-logo-clipart-2.png" width="20" height="20"><a href="https://dantevasudevan.github.io/docs/Graduate_Program.pdf" target="_blank"> M.S. in Semiconductor Engineering Program Overview</a></p>
 
