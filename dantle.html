@@ -387,7 +387,7 @@
       <g fill="#fff"><circle cx="13" cy="27" r="1.3" /><circle cx="20" cy="31" r="1.5" /><circle cx="20" cy="25" r="1.1" />
         <circle cx="27" cy="27" r="1.2" /><circle cx="30" cy="31" r="1" /><circle cx="25" cy="13" r="1.2" /></g>
     </svg></h1>
-    <p class="muted"><span id="brasil-trigger">Change</span> one letter at a time to turn today's word into DANTE. Every step has to be a real word.</p>
+    <p class="muted"><span id="brasil-trigger">Change</span> one letter at a time to turn today's word into <span class="goal-word">DANTE</span>. Every step has to be a real word.</p>
 
     <div class="chips" aria-live="off">
       <span class="chip">Puzzle <b id="puzzle-no">#1</b></span>
@@ -442,9 +442,9 @@
       <ul>
         <li>Type a word that changes exactly one letter of the word above it, then press Enter or Play word.</li>
         <li>Every step must be a real 5-letter word. Going back to an earlier word is allowed, but it counts as a step.</li>
-        <li><span class="swatch green"></span> Green boxes are letters already in their DANTE spot. <span class="swatch blue"></span> Blue marks the letter changed on that step.</li>
+        <li><span class="swatch green"></span> Green boxes are letters already in their <span class="goal-word">DANTE</span> spot. <span class="swatch blue"></span> Blue marks the letter changed on that step.</li>
         <li>Par is the fewest steps possible. Everyone gets the same word, and a new one arrives at midnight Eastern time.</li>
-        <li>The last step is always <strong>DANCE</strong> to <strong>DANTE</strong>, and DANCE sits in a small corner of the dictionary. Rare words like <strong>HANCE</strong> (part of an arch), <strong>RANCE</strong> (a red Belgian marble) and <strong>BUNCE</strong> (British slang for a windfall) are the way in.</li>
+        <li>The last step is always <strong>DANCE</strong> to <strong class="goal-word">DANTE</strong>, and DANCE sits in a small corner of the dictionary. Rare words like <strong>HANCE</strong> (part of an arch), <strong>RANCE</strong> (a red Belgian marble) and <strong>BUNCE</strong> (British slang for a windfall) are the way in.</li>
       </ul>
     </details>
 
@@ -656,6 +656,12 @@
     // ---------- Game state ----------
     let today = null, start = '', par = 0, ladder = [], justAdded = false;
     let explicit = load(EXPLICIT_KEY) === true;
+    // Brazil mode (the hidden "Change" toggle) swaps the goal DANTE for DANJE. The game itself still
+    // runs on DANTE, so par, saved progress, stats and the share grid stay the same in both looks.
+    const BRAZIL_GOAL = 'danje';
+    let brasil = false;
+    const shown = w => (brasil && w === TARGET ? BRAZIL_GOAL : w);  // how a word is displayed
+    const goalName = () => up(shown(TARGET));
     const solver = () => (explicit ? SOLVERS.on : SOLVERS.off);
     const progressKey = () => PROGRESS_KEY + (explicit ? '-explicit' : '');
     const isSolved = () => ladder[ladder.length - 1] === TARGET;
@@ -697,7 +703,7 @@
         let cls = 'played';
         if (w === TARGET) cls += ' solved';
         if (justAdded && i === ladder.length - 1) cls += ' new';
-        frag.append(makeRung(w, i ? ladder[i - 1] : null, i === 0 ? 'Start' : String(i), cls));
+        frag.append(makeRung(shown(w), i ? shown(ladder[i - 1]) : null, i === 0 ? 'Start' : String(i), cls));
       });
       ladderEl.insertBefore(frag, inputRung);
 
@@ -750,18 +756,20 @@
     // ---------- Moves ----------
     function play(raw) {
       if (isSolved()) return;
-      const word = raw.trim().toLowerCase();
+      const typed = raw.trim().toLowerCase();
       const cur = current();
-      if (!word) return fail('Type a 5-letter word.');
-      if (!/^[a-z]+$/.test(word)) return fail('Use letters only.');
-      if (word.length !== 5) return fail('Words need 5 letters.');
+      if (!typed) return fail('Type a 5-letter word.');
+      if (!/^[a-z]+$/.test(typed)) return fail('Use letters only.');
+      if (typed.length !== 5) return fail('Words need 5 letters.');
+      if (brasil && typed === TARGET) return fail(`In this mode the goal is ${goalName()}.`);
+      const word = brasil && typed === BRAZIL_GOAL ? TARGET : typed;  // DANJE stands in for DANTE
       if (word === cur) return fail(`You're already on ${up(cur)}. Change one letter.`);
-      const changes = diffCount(word, cur);
-      if (changes > 1) return fail(`${up(word)} changes ${changes} letters of ${up(cur)}. Change just one.`);
+      const changes = diffCount(typed, cur);
+      if (changes > 1) return fail(`${up(typed)} changes ${changes} letters of ${up(cur)}. Change just one.`);
       if (!solver().isWord(word)) {
         return fail(EXPLICIT.has(word)
-          ? `${up(word)} only counts with Allow Explicit Words turned on.`
-          : `${up(word)} isn't in the word list.`);
+          ? `${up(typed)} only counts with Allow Explicit Words turned on.`
+          : `${up(typed)} isn't in the word list.`);
       }
 
       ladder.push(word);
@@ -854,9 +862,9 @@
       }
       const word = wordForDay(today - 1);
       const path = solver().shortestLadder(word);
-      note.textContent = `Puzzle #${today} started at ${up(word)}. The shortest ladder to DANTE takes ${plural(path.length - 1, 'step')}:`;
+      note.textContent = `Puzzle #${today} started at ${up(word)}. The shortest ladder to ${goalName()} takes ${plural(path.length - 1, 'step')}:`;
       path.forEach((w, i) => {
-        list.append(makeRung(w, i ? path[i - 1] : null, i === 0 ? 'Start' : String(i), w === TARGET ? 'solved' : ''));
+        list.append(makeRung(shown(w), i ? shown(path[i - 1]) : null, i === 0 ? 'Start' : String(i), w === TARGET ? 'solved' : ''));
       });
     }
 
@@ -919,10 +927,18 @@
       const root = document.documentElement;
       if (!calm()) { root.classList.add('br-fade'); setTimeout(() => root.classList.remove('br-fade'), 700); }
       const on = root.classList.toggle('brasil');
+      brasil = on;
       const name = on ? 'Danjle' : 'Dantle';
       $('title-name').textContent = name.toUpperCase();
       $('nav-dantle').textContent = name;
       document.title = name;
+      document.querySelectorAll('.goal-word').forEach(el => { el.textContent = goalName(); });
+      // Entering Brazil mode on a solved puzzle takes back the final DANTE so DANJE can be typed.
+      // (Only on screen: a reload still shows the saved, solved ladder.) Unsolved games are untouched.
+      if (on && isSolved()) { ladder.pop(); justAdded = false; clearError(); }
+      render();
+      setMessage();
+      renderYesterday();
       if (on) confetti();
     });
 
