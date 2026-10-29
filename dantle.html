@@ -933,9 +933,8 @@
       $('nav-dantle').textContent = name;
       document.title = name;
       document.querySelectorAll('.goal-word').forEach(el => { el.textContent = goalName(); });
-      // Entering Brazil mode on a solved puzzle takes back the final DANTE so DANJE can be typed.
-      // (Only on screen: a reload still shows the saved, solved ladder.) Unsolved games are untouched.
-      if (on && isSolved()) { ladder.pop(); justAdded = false; clearError(); }
+      // The game never changes here: a solved puzzle stays solved and its last word is redrawn as
+      // DANJE or DANTE while the colors fade over, in both directions. Unsolved games are untouched.
       render();
       setMessage();
       renderYesterday();
